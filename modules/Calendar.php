@@ -13,7 +13,7 @@ $languageStrings = array(
 	'SINGLE_Calendar' => 'Ημερολόγιο',
 	'SINGLE_Events' => 'Συμβάν',
 	'LBL_ADD_TASK' => 'Προσθήκη Εργασίας',
-	'LBL_ADD_EVENT' => 'Add Συμβάντος',
+	'LBL_ADD_EVENT' => 'Προσθήκη Συμβάντος',
 	'LBL_RECORDS_LIST' => 'Λίστα Εγγραφών',
 	'LBL_EVENTS' => 'Συμβάντα',
 	'LBL_TODOS' => 'Εργασίες',
@@ -64,8 +64,8 @@ $languageStrings = array(
 	'Pending Input' => 'Εκκρεμότητα Στοιχείου(ων)',
 	'Not Started' => 'Δεν Ξεκίνησε',
 	'Deferred' => 'Αναβλήθηκε',
-	'Held' => 'Διεξήχθει',
-	'Not Held' => 'Δεν Διεξήχθει',
+	'Held' => 'Διεξήχθη',
+	'Not Held' => 'Δεν Διεξήχθη',
 	
 	//Priority picklist values
 	'Medium' => 'Μεσαία',
