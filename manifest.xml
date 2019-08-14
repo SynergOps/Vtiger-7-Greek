@@ -4,7 +4,7 @@
   <name>Greek</name>
   <label>Ελληνικά</label>
   <prefix>el_gr</prefix>
-  <version>7.1.0-190813</version>
+  <version>7.1.0-190814</version>
   <dependencies>
     <vtiger_version>7.1.0</vtiger_version>
 	<vtiger_max_version>7.*</vtiger_max_version>
@@ -22,7 +22,7 @@
  ********************************************************************************
  *      Developer    : Salih Emin (https://about.me/salihemin)
  *      Language     : Greek - Ελληνικά
- *      Version      : 7.1.0-190813
+ *      Version      : 7.1.0-190814
  *
  * Αποθετήριο : https://github.com/utappia/vtiger7-greek-translation
  * Άδεια: https://www.vtiger.com/open-source-crm/vtiger-public-license/
