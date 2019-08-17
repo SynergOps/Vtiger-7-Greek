@@ -38,7 +38,7 @@ $languageStrings = array(
 	'Activity Type'=>'Είδος Δραστηριότητας',
 	'Send Notification'=>'Αποστολή Ειδοποίησης',
 	'Location'=>'Τοποθεσία',
-	'End Date & Time' => 'Ημερομηνία & Ώρα Λήξης',
+	'End Date & Time' => 'Ημερομηνία & Ώρα Ολοκλήρωσης',
 	'Visibility' => 'Προβολή',
 	'Recurrence' => 'Επανάληψη',
 	
