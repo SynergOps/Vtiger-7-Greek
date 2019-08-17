@@ -1069,7 +1069,7 @@ $languageStrings = array(
 	'SINGLE_Accounts' => 'Εταιρεία',
 	'SINGLE_Contacts' => 'Επαφή',
 	'SINGLE_Project' => 'Έργο',
-	'LBL_ROLLUP_COMMENTS_INFO' => "Αν η επιλογή "Συγκεντρωτικά σχόλια" έχει οριστεί σε "Ενεργή", θα εμφανιστούν τα σχόλια για τις σχετικές εγγραφές. 
+	'LBL_ROLLUP_COMMENTS_INFO' => "Αν η επιλογή 'Συγκεντρωτικά σχόλια' έχει οριστεί σε 'Ενεργή', θα εμφανιστούν τα σχόλια για τις σχετικές εγγραφές. 
 								 For example, if you are viewing comments on an Organization record, comments added to related Contacts, Opportunities, Tickets, ..etc would also be displayed.",
 	'LBL_ROLLUP_COMMENTS' => "Συγκεντρωτικά σχόλια",
 
@@ -1078,7 +1078,7 @@ $languageStrings = array(
 	'group' => 'Ομάδα',
 	'individual' => 'Άτομο',
 	'LBL_VIEW_FILE'=>'Προβολή αρχείου',
-	'LBL_DOWNLOAD_FILE' => Λήψη αρχείου',
+	'LBL_DOWNLOAD_FILE' => 'Λήψη αρχείου',
 	'LBL_PREVIEW_NOT_AVAILABLE' => 'Η προεπισκόπηση δεν είναι διαθέσιμη',
 	'LBL_PREVIEW_SUPPORTED_FILES' => '<b><strong>Υποστηριζόμενοι τύποι αρχείων : </strong></b><br><br><b>Αρχεία Pdf</b><br><b>Αρχεία κειμένου - </b>txt,csv,ics<br><b>Αρχεία Open Document - </b>open document κείμενο(odt),open document λογιστικό φύλλο(ods) and open document παρουσίαση(odp)<br><b>Αρχεία πολυμέσων - </b>αρχεία εικόνας, ήχου & βίντεο<br>',
 	'Mailing Address' => 'Ταχυδρομική διεύθηνση',
