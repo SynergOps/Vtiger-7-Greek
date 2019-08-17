@@ -1526,7 +1526,7 @@ $jsLanguageStrings = array(
 
 	// Calendar Reminder popup
 	'JS_START_DATE_TIME' => 'Ημ. και Ώρα Έναρξης',
-	'JS_END_DATE_TIME' => 'Ημ. και ώρα Λήξης',
+	'JS_END_DATE_TIME' => 'Ημ. και Ώρα Ολοκλήρωσης',
 	'JS_POSTPONE' => 'Αναβολή',
 	'JS_MESSAGE' => 'Μήνυμα',
 
