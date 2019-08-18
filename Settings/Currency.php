@@ -8,17 +8,17 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Add Currency',
-	'LBL_EDIT_CURRENCY' => 'Edit Currency',
-	'LBL_ADD_NEW_CURRENCY' => 'Add New Currency',
-	'LBL_CURRENCY_NAME' => 'Currency Name',
-	'LBL_CURRENCY_CODE' => 'Currency Code',
-	'LBL_CURRENCY_SYMBOL' => 'Symbol',
-	'LBL_CONVERSION_RATE' => 'Conversion Rate',
-	'LBL_ENTER_CONVERSION_RATE' => 'Enter Conversion Rate',
-	'LBL_CURRENCY_STATUS_DESC' => 'Enable checkbox to make currency Active',
-	'LBL_TRANSFER_CURRENCY' => 'Transfer Currency',
-	'LBL_CURRENT_CURRENCY' => 'Current Currency',
+	'LBL_ADD_RECORD' => 'Προσθήκη Νομίσματος',
+	'LBL_EDIT_CURRENCY' => 'Τροποποίηση νομίσματος',
+	'LBL_ADD_NEW_CURRENCY' => 'Προσθήκη νέου νομίσματος',
+	'LBL_CURRENCY_NAME' => 'Όνομα Νομίσματος',
+	'LBL_CURRENCY_CODE' => 'Κωδ. Νομίσματος',
+	'LBL_CURRENCY_SYMBOL' => 'Σύμβολο',
+	'LBL_CONVERSION_RATE' => 'Συναλλαγματική ισοτιμία',
+	'LBL_ENTER_CONVERSION_RATE' => 'Εισαγωγή συναλλαγματικής ισοτιμία',
+	'LBL_CURRENCY_STATUS_DESC' => 'Ενεργοποίηση νομίσματος',
+	'LBL_TRANSFER_CURRENCY' => 'Μεταφορά Νομίσματος',
+	'LBL_CURRENT_CURRENCY' => 'Τρέχον νόμισμα',
 
 	//currency names
 	'Albania, Leke' 		=> 'Albania, Leke',
@@ -155,6 +155,6 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_CURRENCY_DETAILS_SAVED' => 'Currency Details Saved',
-	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Currency Deleted Successfully',
+	'JS_CURRENCY_DETAILS_SAVED' => 'Τα στοιχεία νομίσματος αποθηκεύτηκαν',
+	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Το νόμισμα διεγράφη με επιτυχία',
 );
