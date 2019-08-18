@@ -61,7 +61,7 @@ $languageStrings = array(
 
 	//Check file integrity messages
 	'LBL_FILE_AVAILABLE' => 'Το αρχείο είναι διαθέσιμο για λήψη',
-	'LBL_FILE_NOT_AVAILABLE' => ''Το αρχείο δεν είναι διαθέσιμο για λήψη',
+	'LBL_FILE_NOT_AVAILABLE' => 'Το αρχείο δεν είναι διαθέσιμο για λήψη',
     'LBL_VIEW_FILE' => 'Προβολή αρχείου',
     'LBL_PREVIEW_NOT_AVAILABLE' => 'Προεπισκόπηση μη διαθέσιμη',
     'LBL_VIEW_FILE' => 'Προβολή αρχείου',
