@@ -9,64 +9,64 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Leads' => 'Leads',
-	'SINGLE_Leads' => 'Lead',
-	'LBL_RECORDS_LIST' => 'Leads List',
-	'LBL_ADD_RECORD' => 'Add Lead',
+	'Leads' => 'Δυνητικοί',
+	'SINGLE_Leads' => 'Δυνητικός',
+	'LBL_RECORDS_LIST' => 'Λίστα δυνητικών',
+	'LBL_ADD_RECORD' => 'Προσθήκη δυνητικού',
 
 	// Blocks
-	'LBL_LEAD_INFORMATION' => 'Lead Details',
+	'LBL_LEAD_INFORMATION' => 'Πληροφορίες δυνητικού',
 
 	//Field Labels
-	'Lead No' => 'Lead Number',
-	'Company' => 'Company',
-	'Designation' => 'Designation',
-	'Website' => 'Website',
-	'Industry' => 'Industry',
-	'Lead Status' => 'Lead Status',
-	'No Of Employees' => 'Number of Employees',
-	'Phone' => 'Primary Phone',
-	'Secondary Email' => 'Secondary Email',
-	'Email' => 'Primary Email',
+	'Lead No' => 'Αριθμός δυνητικού',
+	'Company' => 'Εταιρία',
+	'Designation' => 'Διακριτικό σήμα',
+	'Website' => 'Ιστοσελίδα',
+	'Industry' => 'Βιομηχανία',
+	'Lead Status' => 'Κατάσταση δυνητικού',
+	'No Of Employees' => 'Αριθμός υπαλλήλων',
+	'Phone' => 'Κυρίως τηλέφωνο',
+	'Secondary Email' => 'Δευτερεύον Email',
+	'Email' => 'Πρωτεύον Email',
 
 	//Added for Existing Picklist Entries
 
-	'--None--'=>'--None--',
-	'Mr.'=>'Mr.',
-	'Ms.'=>'Ms.',
-	'Mrs.'=>'Mrs.',
-	'Dr.'=>'Dr.',
-	'Prof.'=>'Prof.',
+	'--None--'=>'--Κενό--',
+	'Mr.'=>'κος.',
+	'Ms.'=>'δις.',
+	'Mrs.'=>'κα.',
+	'Dr.'=>'δρ.',
+	'Prof.'=>'καθ.',
 
 	//Lead Status Picklist values
-	'Attempted to Contact'=>'Attempted to Contact',
-	'Cold'=>'Cold',
-	'Contact in Future'=>'Contact in Future',
-	'Contacted'=>'Contacted',
+	'Attempted to Contact'=>'Προσπάθεια επικοινωνίας',
+	'Cold'=>'Ψυχρός',
+	'Contact in Future'=>'Επικοινωνία στο μέλλον',
+	'Contacted'=>'Επικοινωνήσαμε',
 	'Hot'=>'Hot',
-	'Junk Lead'=>'Junk Lead',
-	'Lost Lead'=>'Lost Lead',
-	'Not Contacted'=>'Not Contacted',
-	'Pre Qualified'=>'Pre Qualified',
-	'Qualified'=>'Qualified',
-	'Warm'=>'Warm',
+	'Junk Lead'=>'Ανεπιθύμητο Δυνητικό',
+	'Lost Lead'=>'Χαμένο Δυνητικό',
+	'Not Contacted'=>'Δεν Επικοινωνήσαμε',
+	'Pre Qualified'=>'Προεπιλέχτηκε',
+	'Qualified'=>'Πιστοποιημένος',
+	'Warm'=>'Θερμός',
 
 	// Mass Action
-	'LBL_CONVERT_LEAD' => 'Convert Lead',
+	'LBL_CONVERT_LEAD' => 'Μετατροπή Δυνητικού',
 
 	//Convert Lead
-	'LBL_TRANSFER_RELATED_RECORD' => 'Transfer related record to',
-	'LBL_CONVERT_LEAD_ERROR' => 'You have to enable either Organization or Contact to convert the Lead',
-	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Leads Field Mapping is incomplete(Settings > Module Manager > Leads > Leads Field Mapping)',
-	'LBL_LEADS_FIELD_MAPPING' => 'Leads Field Mapping',
+	'LBL_TRANSFER_RELATED_RECORD' => 'Μεταφορά σχετικών εγγραφών σε',
+	'LBL_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε την ενότητα Εταιρείες ή τις Επαφές για να μετατρέψετε Δυνητικούς',
+	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Η αντιστοίχιση των πεδίων είναι ημιτελής (Ρυθμίσεις > Διαχειριστής ενοτήτων > Δυνητικοί > Αντιστοίχιση πεδίων δυνητικών)',
+	'LBL_LEADS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων δυνητικών',
 
 	//Leads Custom Field Mapping
-	'LBL_CUSTOM_FIELD_MAPPING'=> 'Lead Conversion Data Mapping',
-	'LBL_IMAGE_INFORMATION' => 'Profile Picture',
-	'Lead Image' => 'Lead Image',
+	'LBL_CUSTOM_FIELD_MAPPING'=> 'Αντιστοίχιση δεδομένων μετατροπής Δυνητικών',
+	'LBL_IMAGE_INFORMATION' => 'Εικόνα προφίλ',
+	'Lead Image' => 'Εικόνα Δυνητικού',
 );
 $jsLanguageStrings = array(
-	'JS_SELECT_CONTACTS' => 'Select Contacts to proceed',
-	'JS_SELECT_ORGANIZATION' => 'Select Organization to proceed',
-	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Conversion requires selection of Contact or Organization'
+	'JS_SELECT_CONTACTS' => 'Επιλογή επαφών για συνέχιση',
+	'JS_SELECT_ORGANIZATION' => 'Επιλογή εταιρειών για συνέχιση',
+	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Η μετατροπή απαιτεί επιλογή Επαφής ή Εταιρείας'
 );
