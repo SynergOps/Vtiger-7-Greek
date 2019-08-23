@@ -28,7 +28,7 @@ $languageStrings = array(
 	'LBL_EXCEEDED' => 'Υπερέβη',
 	'LBL_EMAILTEMPLATE_WARNING'    => 'Είναι σωστές οι ετικέτες συγχώνευσης',
 	'LBL_EMAILTEMPLATE_WARNING_CONTENT' => 'Βεβαιωθείτε ότι το πρότυπο που επιλέξατε έχει ετικέτες συγχώνευσης σχετικές με την εγγραφή του παραλήπτη. 
-											Εάν στέλνετε ένα email σε Δυνητικό, αλλά οι ετικέτες συγχώνευσης ανήκουν στη ενότητα επαφής (πχ: $contacts-lastname$), 
+											Εάν στέλνετε ένα email σε Δυνητικό, αλλά οι ετικέτες συγχώνευσης ανήκουν στη ενότητα Πελάτης (πχ: $contacts-lastname$), 
 											τότε οι τιμές δεν θα συγχωνευθούν.',
 
 	//Button Names translation
@@ -45,7 +45,7 @@ $languageStrings = array(
 	'Time Start' => 'Ώρα Αποστολής',
 	'LBL_EMAIL_INFORMATION' => 'Πληροφ. Email',
 	'Draft' => 'Πρόχειρο',
-	'Parent ID' => 'Γονικοί εγγραφή',
+	'Parent ID' => 'Γονική εγγραφή',
 );
 
 $jsLanguageStrings = array(
