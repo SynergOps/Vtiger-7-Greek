@@ -8,7 +8,7 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'Quotes'=>'Quotes',
+	'Quotes'=>'Προσφορές',
 	//DetailView Actions
 	'SINGLE_Quotes' => 'Προσφορά',
 	'LBL_EXPORT_TO_PDF' => 'Εξαγωγή σε PDF',
