@@ -45,11 +45,11 @@ $languageStrings = array(
 	'Other Zip' => 'Άλλος Τ.Κ',
 	'Other Country' => 'Άλλη Χώρα',
 	'Other Po Box' => 'Άλλη Τ.θ.',
-	'Contact Image' => 'Φωτογραφία Επαφής',
+	'Contact Image' => 'Φωτογραφία Πελάτη',
 	'Other Phone' => 'Δευτερεύον Τηλέφωνο',
 	'Email' => 'Κύριο Email',
 	'Secondary Email' => 'Δευτερεύον Email',
-	'Contact Id' => 'Αρ. Επαφής',
+	'Contact Id' => 'Αρ. Πελάτη',
     'Support Start Date' => 'Ημερομηνία έναρξης υποστήριξης',
     'Support End Date'   => 'Ημερομηνία λήξης υποστήριξης',
 	
