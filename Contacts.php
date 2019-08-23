@@ -9,10 +9,10 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Contacts' => 'Επαφές',
-	'SINGLE_Contacts' => 'Επαφή',
-	'LBL_ADD_RECORD' => 'Νέα Επαφή',
-	'LBL_RECORDS_LIST' => 'Λίστα Επαφών',
+	'Contacts' => 'Πελάτες',
+	'SINGLE_Contacts' => 'Πελάτης',
+	'LBL_ADD_RECORD' => 'Νέος Πελάτης',
+	'LBL_RECORDS_LIST' => 'Λίστα Πελατών',
 
 	// Blocks
 	'LBL_CONTACT_INFORMATION' => 'Βασικές Πληροφορίες',
