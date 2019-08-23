@@ -9,18 +9,18 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'PriceBooks' => 'Price Books',
-	'SINGLE_PriceBooks' => 'Price Book',
-	'LBL_ADD_RECORD' => 'Add Price Book',
-	'LBL_RECORDS_LIST' => 'Price Books List',
+	'PriceBooks' => 'Τιμοκατάλογοι',
+	'SINGLE_PriceBooks' => 'Τιμοκατάλογος',
+	'LBL_ADD_RECORD' => 'Προσθήκη Τιμοκαταλόγου',
+	'LBL_RECORDS_LIST' => 'Λίστα Τιμοκαταλόγων',
 
 	// Blocks
-	'LBL_PRICEBOOK_INFORMATION' => 'Price Book Details',
-	'LBL_EDIT_LIST_PRICE' => 'Edit List Price',
+	'LBL_PRICEBOOK_INFORMATION' => 'Λεπτομέρειες Τιμοκαταλόγου',
+	'LBL_EDIT_LIST_PRICE' => 'Επεξεργασία τιμής λίστας',
 
 	//Field Labels
-	'Price Book Name' => 'Price Book Name',
-	'PriceBook No' => 'Price Book Number',
+	'Price Book Name' => 'Όνομα Τιμοκαταλόγου',
+	'PriceBook No' => 'Αρ. Τιμοκαταλόγου',
 
 	'LBL_UNIT_PRICE' => 'Unit Price',
 	'LBL_ADD_TO' => 'Add to',
