@@ -28,7 +28,7 @@ $languageStrings = array(
 	'Solution' => 'Λύση',
 	'From Portal' => 'Από την Δικτυακή Πύλη',
 	'Related To' => 'Όνομα Οργανισμού',
-	'Contact Name' => 'Όνομα Επαφής',
+	'Contact Name' => 'Όνομα Πελάτη',
 	//Added for existing picklist entries
 
 	'Big Problem'=>'Μεγάλο Πρόβλημα',
