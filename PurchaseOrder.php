@@ -38,7 +38,7 @@ $languageStrings = array(
 	//Translation for product not found
 	'LBL_THIS' => 'Αυτό',
 	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'διαγράφεται από το σύστημα. παρακαλούμε να αφαιρέσετε ή αντικαταστήστε αυτό το στοιχείο',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'SE_REMOVE_THIS_LINE_ITEM' => 'Αυτό το στοιχείο γραμμής έχει διαγραφεί από το σύστημα, παρακαλούμε να καταργήσετε αυτά τα στοιχεία γραμμής',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Αυτό το στοιχείο γραμμής έχει διαγραφεί από το σύστημα, παρακαλούμε να καταργήσετε αυτά τα στοιχεία γραμμής',
         'LBL_LIST_PRICE' => 'Τιμή καταλόγου',
         'List Price' => 'Τιμή καταλόγου',
     
