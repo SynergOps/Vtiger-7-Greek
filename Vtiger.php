@@ -188,7 +188,7 @@ $languageStrings = array(
 	'Assets' => 'Περιουσιακά Στοιχεία',
 	'Calendar' => 'Ημερολόγιο',
 	'Campaigns' => 'Καμπάνιες',
-	'Contacts' => 'Επαφές',
+	'Contacts' => 'Πελάτες',
 	'Documents' => 'Αρχεία',
 	'Leads' => 'Δυνητικοί',
 	'ModComments' => 'Σχόλια',
@@ -613,7 +613,7 @@ $languageStrings = array(
 	'Transportation'=>'Ταξίδια',
 	'Utilities'=>'Παροχών',
 
-	'Contact Name' => 'Όνομα Επαφής',
+	'Contact Name' => 'Όνομα Πελτάτη',
 	'Conversion Rate' => 'Ποσοστό μετατροπής',
 
 	'Shipping Address' => 'Διεύθυνση Αποστολής',
@@ -732,7 +732,7 @@ $languageStrings = array(
 
 	//Translations used in inventory modules for sopy address
 	'SINGLE_Accounts' => 'Εταιρεία',
-	'SINGLE_Contacts' => 'Επαφή',
+	'SINGLE_Contacts' => 'Πελάτης',
 
 	//Weekdays in 3 letters translations
 	'LBL_Sun' => 'Κυρ',
@@ -762,7 +762,7 @@ $languageStrings = array(
 
 	//Translations used in inventory modules for address
 	'SINGLE_Accounts' => 'Εταιρεία',
-	'SINGLE_Contacts' => 'Επαφή',
+	'SINGLE_Contacts' => 'Πελάτης',
 	'HelpDesk' => 'Αιτήματα',
 	'LBL_TAG_CLOUD' => 'Ετικετοσύννεφο',
 
@@ -828,7 +828,7 @@ $languageStrings = array(
 	'Customer Name'=>'Όνομα Πελάτη',
 	'Price'=>'Τιμή',
 	'Tax:' => 'Φ.Π.Α:',
-	'Contact Name' => 'Όνομα Επαφής',
+	'Contact Name' => 'Όνομα Πελάτη',
 	'Grand Total:' => 'Γενικό Σύνολο:',
 	'Fax: ' => 'Φαξ: ',
 	'Website: ' => 'Ιστοσελίδα: ',
@@ -1058,7 +1058,7 @@ $languageStrings = array(
 	'Service' => 'Υπηρεσία',
 	'Pre Tax Total' => 'Προ φόρων Σύνολο',
 	'Received' => 'Ελήφθη',
-	'Balance' => 'Ισολογισμός',
+	'Balance' => 'Υπόλοιπο',
 	'S&H Amount' => 'Χρεώσεις',
 	'S&H Percent' => 'Φόροι επί των χρεώσεων',
 	'Tax Region' => 'Εύρος φόρου',
@@ -1067,7 +1067,7 @@ $languageStrings = array(
 	'SINGLE_Potentials' => 'Ευκαιρία',
 	'SINGLE_HelpDesk' => 'Δελτίο υποστήριξης',
 	'SINGLE_Accounts' => 'Εταιρεία',
-	'SINGLE_Contacts' => 'Επαφή',
+	'SINGLE_Contacts' => 'Πελάτης',
 	'SINGLE_Project' => 'Έργο',
 	'LBL_ROLLUP_COMMENTS_INFO' => "Αν η επιλογή 'Συγκεντρωτικά σχόλια' έχει οριστεί σε 'Ενεργή', θα εμφανιστούν τα σχόλια για τις σχετικές εγγραφές. 
 								 For example, if you are viewing comments on an Organization record, comments added to related Contacts, Opportunities, Tickets, ..etc would also be displayed.",
@@ -1160,7 +1160,7 @@ $languageStrings = array(
 	'SINGLE_Users' => 'Χρήστης',
 	'LBL_RECENT_COMMENTS' => 'Πρόσφατα σχόλια',
 	'LBL_ENGAGEMENT_HISTORY' => 'Ιστορικό αφοσίωσης',
-	'LBL_NO_ENGAGEMENTS_FOUND' => 'Δεν υπάρχουν σχετικά Σημεία επαφής',
+	'LBL_NO_ENGAGEMENTS_FOUND' => 'Δεν υπάρχουν στοιχεία αφοσίωσης',
 	'LBL_MARKETING' => 'MARKETING',
 	'LBL_SALES' => 'ΠΩΛΗΣΕΙΣ',
 	'LBL_PROJECT' => 'ΕΡΓΑ',
@@ -1213,7 +1213,7 @@ $languageStrings = array(
 	"LBL_STATUS" => "Κατάσταση",
 	"LBL_CUSTOMER" => "Σχετίζονται με",
 	"LBL_SUMMARY" => "Σύνοψη",
-	"LBL_ENGAGEMENTS" => "Σημεία επαφής",
+	"LBL_ENGAGEMENTS" => "Στοιχ. Αφοσίωσης",
 
 	'LBL_PLEASE_SELECT_ATLEAST_ONE_OPTION' => 'Διαλέξτε τουλάχιστον μία επιλογή',
 	'LBL_STARRED' => 'Κάντε κλικ για να καταργήσετε την παρακολούθηση',
@@ -1264,7 +1264,7 @@ $languageStrings = array(
 	'LBL_ROLL_UP' => 'Συγκέτρωση',
 
 	'LBL_TOUCH_POINTS' => 'Σημεία επαφής',
-	'LBL_HISTORY' => 'Σημεία επαφής',
+	'LBL_HISTORY' => 'Ιστορικό',
 	'LBL_ENGAGEMENT_HISTORY' => 'Ιστορικό σημείων επαφής',
 	'LBL_SETTINGS' => 'Ρυθμίσεις',
 
@@ -1422,7 +1422,7 @@ $jsLanguageStrings = array(
 	'OVERWRITE_EXISTING_MSG1' => 'Αντικατάσταση της διευθύνσεως με την επιλεγμένη; ',
 	'OVERWRITE_EXISTING_MSG2' => 'στοιχεία διευθύνσεως;',
 	'SINGLE_Accounts' => 'Εταιρεία',
-	'SINGLE_Contacts' => 'Επαφή',
+	'SINGLE_Contacts' => 'Πελάτης',
 	'SINGLE_Project' => 'Έργο',
 	'SINGLE_ProjectMilestone' => 'Ορόσιμο Έργου',
 
@@ -1510,9 +1510,9 @@ $jsLanguageStrings = array(
 
 	//Notification messages for inventory module
 	'JS_PLEASE_SELECT_AN_ACCOUNT_TO_COPY_ADDRESS' => 'Παρακαλώ επιλέξτε μια Εταιρεία για αντιγραφή της διεύθυνσης',
-	'JS_PLEASE_SELECT_AN_CONTACT_TO_COPY_ADDRESS' => 'Παρακαλώ επιλέξτε μια Επαφή για αντιγραφή τής διεύθυνσης',
+	'JS_PLEASE_SELECT_AN_CONTACT_TO_COPY_ADDRESS' => 'Παρακαλώ επιλέξτε Πελάτη για αντιγραφή τής διεύθυνσης',
 	'JS_SELECTED_ACCOUNT_DOES_NOT_HAVE_AN_ADDRESS' => 'Η επιλεγμένη Εταιρεία δεν περιέχει διεύθυνση για αντιγραφή',
-	'JS_SELECTED_CONTACT_DOES_NOT_HAVE_AN_ADDRESS' => 'Η επιλεγμένη Επαφή δεν περιέχει διεύθυνση για αντιγραφή',
+	'JS_SELECTED_CONTACT_DOES_NOT_HAVE_AN_ADDRESS' => 'Ο επιλεγμένος Πελάτης δεν περιέχει διεύθυνση για αντιγραφή',
 	'JS_PLEASE_ENTER_PRIMARY_EMAIL_VALUE_TO_ENABLE_PORTAL_USER' => 'Παρακαλώ εισάγετε το Πρωτεύον Email για την ενεργοποίηση του χρήστη Δικτυακής Πύλης',
 	'JS_PRIMARY_EMAIL_FIELD_DOES_NOT_EXISTS' => 'Το πρωτεύον Email δεν υπάρχει για την ενεργοποίηση του χρήστη Δικτυακής Πύλης.',
 
@@ -1707,7 +1707,7 @@ $jsLanguageStrings = array(
 	'JS_PRINT' => 'Εκτύπωση',
 	'JS_SAVE_AS_IMAGE' => 'Αποθήκευση ως εικόνα',
 	'JS_DIRECTORY_IS_EMPTY' => 'Ο κατάλογος είναι κενός',
-	'JS_PLEASE_SELECT_AN_RELATED_TO_COPY_ADDRESS' => 'Επιλέξτε ενότητα Δυνητικού/Επαφής για να αντιγράψετε τη διεύθυνση',
+	'JS_PLEASE_SELECT_AN_RELATED_TO_COPY_ADDRESS' => 'Επιλέξτε ενότητα Δυνητικού/Πελάτη για να αντιγράψετε τη διεύθυνση',
 	'SINGLE_Leads' => 'Δυνητικός',
 	'JS_SELECTED_LEAD_DOES_NOT_HAVE_AN_ADDRESS' => 'Ο επιλεγμένο δυνητικός δεν περιέχει διεύθυνση για αντιγραφή',
 	'JS_INVALID_EMAILS' => 'Μη έγκυρα Emails',
@@ -1872,7 +1872,7 @@ $jsLanguageStrings = array(
 	'JS_TAB_RENAMED' => 'Μετονομάστηκε',
 	'JS_TAB_REORDERED' =>'Reordered',
 	//Convert Lead
-	'JS_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε είτε την ενότητα Οργανισμοί ή Επαφές για να μετατρέψετε τους Δυνητικούς.',
+	'JS_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε είτε την ενότητα Οργανισμοί ή Πελάτες για να μετατρέψετε τους Δυνητικούς.',
 
 	'JS_CHECK_START_AND_END_DATE'=>'Η ημερομηνία και η ώρα ολοκλήρωσης θα πρέπει να είναι μεγαλύτερες ή ίσες με την Ημερομηνία και ώρα έναρξης',
 	'JS_CHECK_START_AND_END_DATE_SHOULD_BE_GREATER'=> 'Η ημερομηνία και ώρα ολοκλήρωσης θα πρέπει να είναι μεγαλύτερες από την Ημερομηνία και ώρα έναρξης',
@@ -1910,14 +1910,14 @@ $jsLanguageStrings = array(
 	'JS_MAILCHIMP_REMOVE_SYNC_CONFIRMATION' => 'Revoke access will remove existing MailChimp authentication, it will not delete synchronized records. Are you sure you want to revoke access?',
 	'JS_WARNING' => 'Προειδοποίηση',
 	'JS_CANT_SELECT_LEAD' => 'Δεν είναι δυνατή η επιλογή του σχετικού Δυνητικού',
-	'JS_CANT_SELECT_CONTACT' => 'Δεν είναι δυνατή η επιλογή της σχετικής επαφής',
+	'JS_CANT_SELECT_CONTACT' => 'Δεν είναι δυνατή η επιλογή του σχετικού Πελάτη',
 	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Είστε βέβαιοι ότι θέλετε να καταργήσετε οριστικά όλες τις διαγραμμένες εγγραφές από τη βάση δεδομένων σας;',
 	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Είστε βέβαιοι ότι θέλετε να επαναφέρετε τις εγγραφές;',
 	'JS_COMMENT_POSTED_SUCCESSFULLY'=>'Το σχόλιο δημοσιεύτηκε με επιτυχία',
 	'JS_SHARED_PUBLICLY_WITH'=>'Μοιράστηκε δημόσια με',
 	'JS_SHARED_PRIVATELY_WITH'=>'Μοιράστηκε ιδιωτικά με',
 	'JS_MAIL_SENT_SUCCESSFULLY'=>'Το email στάλθηκε με επιτυχία',
-	'JS_SHARED_PUBLICLY_TITLE'=>'Η δημόσια συζήτηση μπορεί επίσης να προβληθεί από χρήστες εκτός των συνδεδεμένων γραμματοκιβωτίων, εάν έχουν πρόσβαση στη σχετική επαφή, την ευκαιρία ..κλπ',
+	'JS_SHARED_PUBLICLY_TITLE'=>'Η δημόσια συζήτηση μπορεί επίσης να προβληθεί από χρήστες εκτός των συνδεδεμένων γραμματοκιβωτίων, εάν έχουν πρόσβαση στον σχετικό πελάτη, την ευκαιρία ..κλπ',
 	'JS_SHARED_PRIVATELY_TITLE'=>'Η ιδιωτική συνομιλία μπορεί να προβληθεί μόνο από μέλη των γραμματοκιβωτίων με τα οποία συνδέεται.',
 	'JS_LINKED_RECORDS_SUCCESS'=>'Οι συνδεδεμένες εγγραφές ενημερώθηκαν με επιτυχία',
 	'JS_MAIL_DRAFTED_SUCCESSFULLY'=>'Το email αποθηκεύτηκε με επιτυχία',

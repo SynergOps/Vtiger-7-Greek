@@ -56,7 +56,7 @@ $languageStrings = array(
 
 	//Convert Lead
 	'LBL_TRANSFER_RELATED_RECORD' => 'Μεταφορά σχετικών εγγραφών σε',
-	'LBL_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε την ενότητα Εταιρείες ή τις Επαφές για να μετατρέψετε Δυνητικούς',
+	'LBL_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε την ενότητα Εταιρείες ή Πελάτες για να μετατρέψετε Δυνητικούς',
 	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Η αντιστοίχιση των πεδίων είναι ημιτελής (Ρυθμίσεις > Διαχειριστής ενοτήτων > Δυνητικοί > Αντιστοίχιση πεδίων δυνητικών)',
 	'LBL_LEADS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων δυνητικών',
 
@@ -66,7 +66,7 @@ $languageStrings = array(
 	'Lead Image' => 'Εικόνα Δυνητικού',
 );
 $jsLanguageStrings = array(
-	'JS_SELECT_CONTACTS' => 'Επιλογή επαφών για συνέχιση',
+	'JS_SELECT_CONTACTS' => 'Επιλογή πελατών για συνέχιση',
 	'JS_SELECT_ORGANIZATION' => 'Επιλογή εταιρειών για συνέχιση',
-	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Η μετατροπή απαιτεί επιλογή Επαφής ή Εταιρείας'
+	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Η μετατροπή απαιτεί επιλογή Πελάτη ή Εταιρείας'
 );

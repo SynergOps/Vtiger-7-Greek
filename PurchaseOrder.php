@@ -8,59 +8,59 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-    'PurchaseOrder' => 'Purchase Orders',
+    'PurchaseOrder' => 'Eντολες αγοράς',
 	//DetailView Actions
-	'SINGLE_PurchaseOrder' => 'Purchase Order',
-	'LBL_EXPORT_TO_PDF' => 'Export to PDF',
-    'LBL_SEND_MAIL_PDF' => 'Send Email with PDF',
+	'SINGLE_PurchaseOrder' => 'Εντολή Αγοράς',
+	'LBL_EXPORT_TO_PDF' => 'Εξαγωγή σε Pdf',
+    'LBL_SEND_MAIL_PDF' => 'Αποστολή email με Pdf',
 
 	//Basic strings
-	'LBL_ADD_RECORD' => 'Add Purchase Order',
-	'LBL_RECORDS_LIST' => 'Purchase Order List',
-	'LBL_COPY_SHIPPING_ADDRESS' => 'Copy Shipping Address',
-	'LBL_COPY_BILLING_ADDRESS' => 'Copy Billing Address',
+	'LBL_ADD_RECORD' => 'Προσθήκη Εντολής Αγοράς',
+	'LBL_RECORDS_LIST' => 'Λίστα Εντολών Αγοράς',
+	'LBL_COPY_SHIPPING_ADDRESS' => 'Αντιγραφή Διεύθυνσης Αποστολής',
+	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφή Διεύθυνσης Χρέωσης',
 
 	// Blocks
-	'LBL_PO_INFORMATION' => 'Purchase Order Details',
+	'LBL_PO_INFORMATION' => 'Λεπτομέριες Εντολής Αγοράς',
 
 	//Field Labels
-	'PurchaseOrder No' => 'Purchase Order Number',
-	'Requisition No' => 'Requisition Number',
-	'Tracking Number' => 'Tracking Number',
-	'Sales Commission' => 'Sales Commission',
-    'LBL_PAID' => 'Paid',
-    'LBL_BALANCE' => 'Balance',
+	'PurchaseOrder No' => 'Αρ. Εντολής Αγοράς',
+	'Requisition No' => 'Αρ. Δέσμευσης',
+	'Tracking Number' => 'Αρ. Ανίχνευσης',
+	'Sales Commission' => 'Προμήθεια Πώλησης',
+    'LBL_PAID' => 'Πληρώθηκε',
+    'LBL_BALANCE' => 'Υπόλοιπο',
 
 	//Added for existing Picklist Entries
 
-	'Received Shipment'=>'Received Shipment',
+	'Received Shipment'=>'Παραλαβή αποστολής',
 	
 	//Translation for product not found
-	'LBL_THIS' => 'This',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'is deleted from the system.please remove or replace this item',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'This line item is deleted from the system,please remove this line items',
-        'LBL_LIST_PRICE'               => 'List Price',
-        'List Price'                   => 'List Price',
+	'LBL_THIS' => 'Αυτό',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'διαγράφεται από το σύστημα. παρακαλούμε να αφαιρέσετε ή αντικαταστήστε αυτό το στοιχείο',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Αυτό το στοιχείο γραμμής έχει διαγραφεί από το σύστημα, παρακαλούμε να καταργήσετε αυτά τα στοιχεία γραμμής',
+        'LBL_LIST_PRICE' => 'Τιμή καταλόγου',
+        'List Price' => 'Τιμή καταλόγου',
     
-    'LBL_COPY_COMPANY_ADDRESS' => 'Copy Company Address',
-    'LBL_COPY_ACCOUNT_ADDRESS' => 'Copy Organization Address',
-	'LBL_SELECT_ADDRESS_OPTION' => 'Select Address to copy',
-	'LBL_BILLING_ADDRESS' => 'Billing Address',
-	'LBL_COMPANY_ADDRESS' => 'Company Address',
-	'LBL_ACCOUNT_ADDRESS' => 'Organization Address',
-	'LBL_VENDOR_ADDRESS' => 'Vendor Address',
-	'LBL_CONTACT_ADDRESS' => 'Contact Address'
+    'LBL_COPY_COMPANY_ADDRESS' => 'Αντιγραφή διεύθυνσης Επιχείρησης',
+    'LBL_COPY_ACCOUNT_ADDRESS' => 'Αντιγραφή διεύθυνσης Εταιρείας',
+	'LBL_SELECT_ADDRESS_OPTION' => 'Επιλέξτε Διεύθυνση για αντιγραφή',
+	'LBL_BILLING_ADDRESS' => 'Διεύθηνση Χρέωσης',
+	'LBL_COMPANY_ADDRESS' => 'Διεύθηνση Επιχείρησης',
+	'LBL_ACCOUNT_ADDRESS' => 'Διεύθηνση Εταιρείας',
+	'LBL_VENDOR_ADDRESS' => 'Διεύθηνση Προμηθευτή',
+	'LBL_CONTACT_ADDRESS' => 'Διεύθηνση Πελάτη'
 	
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Please remove line item that is deleted',
-    'JS_ORGANIZATION_NOT_FOUND'=> 'Organization empty!',
-    'JS_ORGANIZATION_NOT_FOUND_MESSAGE'=> 'Please select an organization before you copy address',
-	'JS_ACCOUNT_NOT_FOUND' => 'Organization empty!',
-	'JS_ACCOUNT_NOT_FOUND_MESSAGE' =>  'Please select an organization before you copy address',
-	'JS_VENDOR_NOT_FOUND' => 'Vendor Empty', 
-	'JS_VENDOR_NOT_FOUND_MESSAGE' => 'Please select an vendor before you copy address',
-	'JS_CONTACT_NOT_FOUND' => 'Contact Empty', 
-	'JS_CONTACT_NOT_FOUND_MESSAGE' =>  'Please select an contact before you copy address',
+	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Καταργήστε το στοιχείο γραμμής που διαγράφεται',
+    'JS_ORGANIZATION_NOT_FOUND'=> 'Εταιρεία κενό!',
+    'JS_ORGANIZATION_NOT_FOUND_MESSAGE'=> 'Επιλέξτε μια εταιρεία πριν αντιγράψετε τη διεύθυνση',
+	'JS_ACCOUNT_NOT_FOUND' => 'Επιχείρηση κενό!',
+	'JS_ACCOUNT_NOT_FOUND_MESSAGE' =>  'Επιλέξτε μια επιχείρηση πριν αντιγράψετε τη διεύθυνση',
+	'JS_VENDOR_NOT_FOUND' => 'Προμηθευτής κενό', 
+	'JS_VENDOR_NOT_FOUND_MESSAGE' => 'Επιλέξτε έναν προμηθευτή πριν αντιγράψετε τη διεύθυνση',
+	'JS_CONTACT_NOT_FOUND' => 'Πελάτης κενό', 
+	'JS_CONTACT_NOT_FOUND_MESSAGE' =>  'Επιλέξτε έναν πελάτη πριν αντιγράψετε τη διεύθυνση',
 );

@@ -9,10 +9,10 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Contacts' => 'Επαφές',
-	'SINGLE_Contacts' => 'Επαφή',
-	'LBL_ADD_RECORD' => 'Νέα Επαφή',
-	'LBL_RECORDS_LIST' => 'Λίστα Επαφών',
+	'Contacts' => 'Πελάτες',
+	'SINGLE_Contacts' => 'Πελάτης',
+	'LBL_ADD_RECORD' => 'Νέος Πελάτης',
+	'LBL_RECORDS_LIST' => 'Λίστα Πελατών',
 
 	// Blocks
 	'LBL_CONTACT_INFORMATION' => 'Βασικές Πληροφορίες',
@@ -45,11 +45,11 @@ $languageStrings = array(
 	'Other Zip' => 'Άλλος Τ.Κ',
 	'Other Country' => 'Άλλη Χώρα',
 	'Other Po Box' => 'Άλλη Τ.θ.',
-	'Contact Image' => 'Φωτογραφία Επαφής',
+	'Contact Image' => 'Φωτογραφία Πελάτη',
 	'Other Phone' => 'Δευτερεύον Τηλέφωνο',
 	'Email' => 'Κύριο Email',
 	'Secondary Email' => 'Δευτερεύον Email',
-	'Contact Id' => 'Αρ. Επαφής',
+	'Contact Id' => 'Αρ. Πελάτη',
     'Support Start Date' => 'Ημερομηνία έναρξης υποστήριξης',
     'Support End Date'   => 'Ημερομηνία λήξης υποστήριξης',
 	

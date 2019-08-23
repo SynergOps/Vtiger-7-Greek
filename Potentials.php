@@ -9,66 +9,66 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Potentials' => 'Opportunities',
-	'SINGLE_Potentials' => 'Opportunity',
-	'LBL_ADD_RECORD' => 'Add Opportunity',
-	'LBL_RECORDS_LIST' => 'Opportunities List',
+	'Potentials' => 'Ευκαιρίες',
+	'SINGLE_Potentials' => 'Ευκαιρίαs',
+	'LBL_ADD_RECORD' => 'Προσθήκη Ευκαιρίας',
+	'LBL_RECORDS_LIST' => 'Λίστα Ευκαιριών',
 
 	// Blocks
-	'LBL_OPPORTUNITY_INFORMATION' => 'Opportunity Details',
+	'LBL_OPPORTUNITY_INFORMATION' => 'Λεπτομέρειες Ευκαιρίας',
 
 	//Field Labels
-	'Potential No' => 'Opportunity Number',
-	'Amount' => 'Amount',
-	'Next Step' => 'Next Step',
-	'Sales Stage' => 'Sales Stage',
-	'Probability' => 'Probability',
-	'Campaign Source' => 'Campaign Source',
-	'Forecast Amount' => 'Weighted Revenue',
-	'Related To' => 'Organization Name',
-	'Contact Name' => 'Contact Name',
-        'Type' => 'Type',
+	'Potential No' => 'Αρ. Ευκαιρίας',
+	'Amount' => 'Ποσό',
+	'Next Step' => 'Επόμενο Στάδιο',
+	'Sales Stage' => 'Στάδιο Πώλησης',
+	'Probability' => 'Πιθανότητα',
+	'Campaign Source' => 'Πηγή Καμπάνιας',
+	'Forecast Amount' => 'Πρόβλεψη Ποσού',
+	'Related To' => 'Όνομα Εταιρείας',
+	'Contact Name' => 'Όνομα Πελάτη',
+	'Type' => 'Type',
 	
 	//Dashboard widgets
 	'Funnel' => 'Sales Funnel',
-	'Potentials by Stage' => 'Opportunities by Stage',
-	'Total Revenue' => 'Revenue by Salesperson',
-	'Top Potentials' => 'Top Opportunities',
-	'Forecast' => 'Sales Forecast',
+	'Potentials by Stage' => 'Ευκαιρίες ανά Στάδιο',
+	'Total Revenue' => 'Έσοδα ανά Πωλητή',
+	'Top Potentials' => 'Κορυφαίες Ευκαιρίες',
+	'Forecast' => 'Πρόβλεψη Πωλήσεων',
 
 	//Added for Existing Picklist Strings
 
-	'Prospecting'=>'Prospecting',
-	'Qualification'=>'Qualification',
-	'Needs Analysis'=>'Needs Analysis',
-	'Value Proposition'=>'Value Proposition',
-	'Id. Decision Makers'=>'Identify Decision Makers',
-	'Perception Analysis'=>'Perception Analysis',
-	'Proposal/Price Quote'=>'Proposal/Quotation',
-	'Negotiation/Review'=>'Negotiation/Review',
-	'Closed Won'=>'Closed Won',
-	'Closed Lost'=>'Closed Lost',
+	'Prospecting'=>'Διερεύνηση',
+	'Qualification'=>'Αξιολόγηση',
+	'Needs Analysis'=>'Απαιτεί Ανάλυση',
+	'Value Proposition'=>'Πρόταση αξίας',
+	'Id. Decision Makers'=>'Προσδιορισμός Υπευθύνων',
+	'Perception Analysis'=>'Ανάλυση Αντίληψης',
+	'Proposal/Price Quote'=>'Πρόταση/Προσφορά',
+	'Negotiation/Review'=>'Διαπραγμάτευση/Επανεξέταση',
+	'Closed Won'=>'Έκλεισε Επιτυχώς',
+	'Closed Lost'=>'Έκλεισε Ανεπιτυχώς',
 
-	'--None--'=>'--None--',
-	'Existing Business'=>'Existing Business',
-	'New Business'=>'New Business',
-	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Expected to close on',
+	'--None--'=>'--Κανένα--',
+	'Existing Business'=>'Υφιστάμενη Επιχείρηση',
+	'New Business'=>'Νέα Επιχείρηση',
+	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Αναμένεται να κλείσει στις',
 
 	//widgets headers
-	'LBL_RELATED_CONTACTS' => 'Related Contacts',
-	'LBL_RELATED_PRODUCTS' => 'Related Products',
+	'LBL_RELATED_CONTACTS' => 'Σχετικοί Πελάτες',
+	'LBL_RELATED_PRODUCTS' => 'Σχετικά Προϊόντα',
     
     //Convert Potentials
-    'LBL_CONVERT_POTENTIAL' => 'Convert Opportunity',
-	'LBL_CREATE_PROJECT' => 'Create Project',
-    'LBL_POTENTIALS_FIELD_MAPPING' => 'Opportunities Field Mapping',
-    'LBL_CONVERT_POTENTIALS_ERROR' => 'You have to enable Project to convert the Opportunity',
-    'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'Opportunities Field Mapping is incomplete(Settings > Module Manager > Opportunities > Opportunities Field Mapping)',
+    'LBL_CONVERT_POTENTIAL' => 'Μετατροπή Εκαιρείας',
+	'LBL_CREATE_PROJECT' => 'Δημιουργία Έργου',
+    'LBL_POTENTIALS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων Ευκαιριών',
+    'LBL_CONVERT_POTENTIALS_ERROR' => 'Πρέπει να ενεργοποιήσετε την ενότητα Έργα για να μετατρέψετε την Ευκαιρία',
+    'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'Η αντιστοίχιση πεδίων Ευκαιριών είναι ατελής (Settings > Module Manager > Opportunities > Opportunities Field Mapping)',
     
     //Potentials Custom Field Mapping
-	'LBL_CUSTOM_FIELD_MAPPING'=> 'Opportunity to Project mapping',
+	'LBL_CUSTOM_FIELD_MAPPING'=> 'Αντιστοίχιση Ευκαιρίας σε Έργο',
 );
 
 $jsLanguageStrings = array(
-	'JS_SELECT_PROJECT_TO_CONVERT_LEAD' => 'Conversion requires selection of Project',
+	'JS_SELECT_PROJECT_TO_CONVERT_LEAD' => 'Η μετατροπή απαιτεί την επιλογή Έργου',
 );

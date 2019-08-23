@@ -70,7 +70,7 @@ $languageStrings = array(
 	//Priority picklist values
 	'Medium' => 'Μεσαία',
 
-	'LBL_CHANGE_OWNER' => 'Μεταβίβαση Πελάτη',
+	'LBL_CHANGE_OWNER' => 'Μεταφορά διαχ. Πελάτη',
 
 	'LBL_EVENT' => 'Συμβάν',
 	'LBL_TASK' => 'Εργασία',
@@ -135,7 +135,7 @@ $languageStrings = array(
     'Due Date' => 'Προθεσμία',
     'Priority' => 'Προτεραιότητα',
     'Related To' => 'Σχετίζεται με',
-    'LBL_CONTACT_LIST' => 'Λίστα Επαφής',
+    'LBL_CONTACT_LIST' => 'Λίστα Πελατών',
     'LBL_APP_DESCRIPTION' => 'Περιγραφή',
     'LBL_REGARDS_STRING' => 'Με εκτίμηση',
     'LBL_EVENT_INFORMATION' => 'Λεπτομέριες Συμβάντος',
@@ -183,7 +183,7 @@ $languageStrings = array(
 $jsLanguageStrings = array(
 	'LBL_ADD_EVENT_TASK' => 'Προσθήκη Συμβάντος/Εργασίας',
 	'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'Η Εργασία έχει προστεθεί επιτυχώς στο Ημερολόγιό σας',
-        'LBL_CANT_SELECT_CONTACT_FROM_LEADS' => 'Δεν είναι δυνατή η επιλογή των Επαφών που σχετίζονται με τους Δυνητικούς',
+        'LBL_CANT_SELECT_CONTACT_FROM_LEADS' => 'Δεν είναι δυνατή η επιλογή των Πελατών που σχετίζονται με τους Δυνητικούς',
         'JS_FUTURE_EVENT_CANNOT_BE_HELD' => 'Δεν μπορεί να διεξαχθεί για το μέλλον',
 	
 	//Calendar view label translation
@@ -256,7 +256,7 @@ $jsLanguageStrings = array(
     'JS_MARK_AS_HELD' => 'Σημείωση ως Διεξήχθη',
     'JS_CREATE_FOLLOW_UP' => 'Δημιουργία follow up',
     'JS_RECURRING_EVENT' => 'Επαναλαμβανόμενο συμβάν',
-    'JS_DETAILS' => 'Περισσότερες&nbsp;Λεπτομέριες',
+    'JS_DETAILS' => 'Περισσότερες Λεπτομέριες',
     'JS_CHECK_START_AND_END_DATE'=>'Η ημερομηνία και η ώρα λήξης θα πρέπει να είναι μεγαλύτερες ή ίσες με την Ημερομηνία και ώρα έναρξης',
     'JS_CHECK_START_AND_END_DATE_SHOULD_BE_GREATER'=> 'Η ημερομηνία και ώρα λήξης θα πρέπει να είναι μεγαλύτερες από την Ημερομηνία και ώρα έναρξης',
 );

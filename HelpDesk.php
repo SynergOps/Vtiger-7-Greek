@@ -28,7 +28,7 @@ $languageStrings = array(
 	'Solution' => 'Λύση',
 	'From Portal' => 'Από την Δικτυακή Πύλη',
 	'Related To' => 'Όνομα Οργανισμού',
-	'Contact Name' => 'Όνομα Επαφής',
+	'Contact Name' => 'Όνομα Πελάτη',
 	//Added for existing picklist entries
 
 	'Big Problem'=>'Μεγάλο Πρόβλημα',
@@ -54,7 +54,7 @@ $languageStrings = array(
 	'LBL_RELATED_TO' => 'Σχετίζεται με',
 
 	//added to support i18n in ticket mails
-	'Ticket ID'=>'Κωδ. Αιτήματος',
+	'Ticket ID'=>'Αρ. Αιτήματος',
 	'Hi' => 'Γεια σας',
 	'Dear'=> 'Αγαπητέ/η',
 	'LBL_PORTAL_BODY_MAILINFO'=> 'Το Αίτημα σας είναι',
@@ -81,8 +81,8 @@ $languageStrings = array(
 	'LBL_CUSTOMER_COMMENTS' => 'Ο Πελάτης παρείχε τις παρακάτω επιπλέον πληροφορίες στην απάντησή σας:',
 	'LBL_RESPOND'=> 'Παρακαλούμε ανταποκριθείτε στο παραπάνω αίτημα, το νωρίτερο δυνατόν.',
 	'LBL_SUPPORT_ADMIN' => 'Διαχειριστής Υποστήριξης',
-	'LBL_RESPONDTO_TICKETID' =>'Απαντήστε στον Κωδ. Αιτήματος',
-	'LBL_RESPONSE_TO_TICKET_NUMBER' =>'Απάντηση στον Κωδ. Αιτήματος',
+	'LBL_RESPONDTO_TICKETID' =>'Απαντήστε στον Αρ. Αιτήματος',
+	'LBL_RESPONSE_TO_TICKET_NUMBER' =>'Απάντηση στον Αρ. Αιτήματος',
 	'LBL_TICKET_NUMBER' => 'Αρ. Αιτήματος',
 	'LBL_CUSTOMER_PORTAL' => 'στην Δικτυακή Πύλη Πελάτη - ΕΠΕΙΓΟΝ',
 	'LBL_LOGIN_DETAILS' => 'Τα παρακάτω είναι τα στοιχεία σύνδεσής σας στην Δικτυακή Πύλη Πελάτη:',
@@ -98,12 +98,12 @@ $languageStrings = array(
 	'HelpDesk ID' => 'Κωδ. Αιτήματος',
 	//Portal shortcuts
 	'LBL_ADD_DOCUMENT'=>"Προσθ. Αρχείου",
-	'LBL_OPEN_TICKETS'=>"Ανοι. Αιτήματα",
+	'LBL_OPEN_TICKETS'=>"Ανοιχ. Αιτήματα",
 	'LBL_CREATE_TICKET'=>"Δημ. Αιτήματος",
 );
 
 $jsLanguageStrings=array(
 	'LBL_ADD_DOCUMENT'=>'Προσθ. Αρχείου',
-	'LBL_OPEN_TICKETS'=>'Ανοι. Αιτήματα',
+	'LBL_OPEN_TICKETS'=>'Ανοιχ. Αιτήματα',
 	'LBL_CREATE_TICKET'=>'Δημ. Αιτήματος'
 );
