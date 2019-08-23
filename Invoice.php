@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
     
-    'Invoice'   =>  'Invoices',
+    'Invoice'   =>  'Τιμολόγια',
 	//DetailView Actions
 	'SINGLE_Invoice' => 'Τιμολόγιο',
 	'LBL_EXPORT_TO_PDF' => 'Εξαγωγή σε PDF',
