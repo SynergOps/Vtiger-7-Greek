@@ -19,7 +19,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => 'Λίστα Προσφορών',
 
 	// Blocks
-	'LBL_QUOTE_INFORMATION' => 'Λεπτομέριες Προσφοράς',
+	'LBL_QUOTE_INFORMATION' => 'Λεπτομέρειες Προσφοράς',
 
 	//Field Labels
 	'Quote No'=>'Αρ. Προσφοράς',

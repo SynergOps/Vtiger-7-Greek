@@ -138,7 +138,7 @@ $languageStrings = array(
     'LBL_CONTACT_LIST' => 'Λίστα Πελατών',
     'LBL_APP_DESCRIPTION' => 'Περιγραφή',
     'LBL_REGARDS_STRING' => 'Με εκτίμηση',
-    'LBL_EVENT_INFORMATION' => 'Λεπτομέριες Συμβάντος',
+    'LBL_EVENT_INFORMATION' => 'Λεπτομέρειες Συμβάντος',
 	'LBL_UPDATED_INVITATION' => 'Ενημερωμένη πρόσκληση',
 	'LBL_INVITATION' => 'Πρόσκληση',
 	
@@ -256,7 +256,7 @@ $jsLanguageStrings = array(
     'JS_MARK_AS_HELD' => 'Σημείωση ως Διεξήχθη',
     'JS_CREATE_FOLLOW_UP' => 'Δημιουργία follow up',
     'JS_RECURRING_EVENT' => 'Επαναλαμβανόμενο συμβάν',
-    'JS_DETAILS' => 'Περισσότερες Λεπτομέριες',
+    'JS_DETAILS' => 'Περισσότερες Λεπτομέρειες',
     'JS_CHECK_START_AND_END_DATE'=>'Η ημερομηνία και η ώρα λήξης θα πρέπει να είναι μεγαλύτερες ή ίσες με την Ημερομηνία και ώρα έναρξης',
     'JS_CHECK_START_AND_END_DATE_SHOULD_BE_GREATER'=> 'Η ημερομηνία και ώρα λήξης θα πρέπει να είναι μεγαλύτερες από την Ημερομηνία και ώρα έναρξης',
 );
