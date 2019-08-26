@@ -21,7 +21,7 @@ $languageStrings = array(
 	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφή Διεύθυνσης Χρέωσης',
 
 	// Blocks
-	'LBL_PO_INFORMATION' => 'Λεπτομέριες Εντολής Αγοράς',
+	'LBL_PO_INFORMATION' => 'Λεπτομέρειες Εντολής Αγοράς',
 
 	//Field Labels
 	'PurchaseOrder No' => 'Αρ. Εντολής Αγοράς',

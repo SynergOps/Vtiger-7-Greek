@@ -217,7 +217,7 @@ $languageStrings = array(
 	'LBL_RECENTLY_MODIFIED' => 'Πρόσφατη Τροποποίηση',
 	'LBL_RECORDS_LIST' => 'Λίστα Εγγραφών',
 	'LBL_RECORD_SUMMARY' => 'Σύνοψη Ενότητας',
-	'LBL_RECORD_SUMMARY' => 'Λεπτομέριες Ενότητας',
+	'LBL_RECORD_SUMMARY' => 'Λεπτομέρειες Ενότητας',
 	'LBL_ACCESS_DENIED_FOR' => 'Η Πρόσβαση απαγορεύται για',
 	'LBL_GO_BACK' => 'Πίσω',
 	'LBL_NO_DATA_AVAILABLE' => 'Δεν υπάρχουν διαθέσιμα δεδομένα',
@@ -683,7 +683,7 @@ $languageStrings = array(
 	'Vendor Name'=>'Όνομα Προμηθευτή',
 
 	'LBL_ADDRESS_INFORMATION' => 'Λεπτομέρειες Διεύθυνσης',
-	'LBL_DESCRIPTION_INFORMATION' => 'Λεπτομέριες Περιγραφής',
+	'LBL_DESCRIPTION_INFORMATION' => 'Λεπτομέρειες Περιγραφής',
 	'LBL_TERMS_INFORMATION' => 'Όροι και Προϋποθέσεις',
 	'LBL_PRICING_INFORMATION' => 'Πληροφορίες Τιμολόγησης',
 	'LBL_RELATED_PRODUCTS' => 'Λεπτομέρειες προιόντος',
