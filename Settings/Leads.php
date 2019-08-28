@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	//Actions
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Μετατροπή Συσχέτισης Δυνητικού Πελάτη',
+	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Μετατροπή Αντιστοίχισης Δυνητικού Πελάτη',
 	'LBL_ORGANIZATIONS' => 'Εταιρείες',
 	'LBL_CONTACTS' => 'Πελάτες',
 	'LBL_OPPURTUNITIES' => 'Ευκαιρίες',
