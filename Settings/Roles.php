@@ -43,6 +43,6 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_PERMISSION_DENIED' => 'Permissions Denied',
-	'JS_NO_PERMISSIONS_TO_MOVE' => 'No Permissions to Move',
+	'JS_PERMISSION_DENIED' => 'Άρνηση Δικαιώματος',
+	'JS_NO_PERMISSIONS_TO_MOVE' => 'Κανένα δικαίωμα για Μετακίνηση',
 );
