@@ -8,17 +8,17 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Προσθήκη Νομίσματος',
-	'LBL_EDIT_CURRENCY' => 'Τροποποίηση νομίσματος',
-	'LBL_ADD_NEW_CURRENCY' => 'Προσθήκη νέου νομίσματος',
-	'LBL_CURRENCY_NAME' => 'Όνομα Νομίσματος',
-	'LBL_CURRENCY_CODE' => 'Κωδ. Νομίσματος',
+	'LBL_ADD_RECORD' => 'Προσθήκη συναλλάγματος',
+	'LBL_EDIT_CURRENCY' => 'Τροποποίηση συναλλάγματος',
+	'LBL_ADD_NEW_CURRENCY' => 'Προσθήκη νέου συναλλάγματος',
+	'LBL_CURRENCY_NAME' => 'Όνομα Συναλλάγματος',
+	'LBL_CURRENCY_CODE' => 'Κωδ. Συναλλάγματος',
 	'LBL_CURRENCY_SYMBOL' => 'Σύμβολο',
 	'LBL_CONVERSION_RATE' => 'Συναλλαγματική ισοτιμία',
-	'LBL_ENTER_CONVERSION_RATE' => 'Εισαγωγή συναλλαγματικής ισοτιμία',
-	'LBL_CURRENCY_STATUS_DESC' => 'Ενεργοποίηση νομίσματος',
-	'LBL_TRANSFER_CURRENCY' => 'Μεταφορά Νομίσματος',
-	'LBL_CURRENT_CURRENCY' => 'Τρέχον νόμισμα',
+	'LBL_ENTER_CONVERSION_RATE' => 'Εισαγωγή συναλλαγματικής ισοτιμίας',
+	'LBL_CURRENCY_STATUS_DESC' => 'Ενεργοποίηση συναλλάγματος',
+	'LBL_TRANSFER_CURRENCY' => 'Μεταφορά συναλλάγματος',
+	'LBL_CURRENT_CURRENCY' => 'Τρέχον συνάλλαγμα',
 
 	//currency names
 	'Albania, Leke' 		=> 'Albania, Leke',
@@ -155,6 +155,6 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_CURRENCY_DETAILS_SAVED' => 'Τα στοιχεία νομίσματος αποθηκεύτηκαν',
-	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Το νόμισμα διεγράφη με επιτυχία',
+	'JS_CURRENCY_DETAILS_SAVED' => 'Τα στοιχεία συναλλάγματος αποθηκεύτηκαν',
+	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Το συνάλλαγμα διεγράφη με επιτυχία',
 );

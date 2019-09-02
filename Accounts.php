@@ -49,7 +49,7 @@ $languageStrings = array(
 	'LBL_END_DATE' => 'Ημερομηνία Λήξης',
 	
 	//Duplication error message
-	'LBL_DUPLICATES_EXIST' => 'Το Όνομα Εταρείας υπάρχει ήδη',
+	'LBL_DUPLICATES_EXIST' => 'Το Όνομα Εταιρείας υπάρχει ήδη',
 	'LBL_COPY_SHIPPING_ADDRESS' => 'Αντιγραφή Διεύθυνσης αποστολής',
 	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφή Διεύθυνσης χρέωσης',
 	'LBL_IMAGE_INFORMATION' => 'Φωτογραφία Προφίλ',

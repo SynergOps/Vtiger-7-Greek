@@ -82,7 +82,7 @@ $languageStrings = array(
 	'LBL_VTIGER' => 'Vtiger',
 	'LBL_EXAMPLE_FIELD_NAME' => 'Πεδίο',
 	'LBL_NOTIFY_OWNER' => 'ειδοποίηση_κατόχου',
-	'LBL_ANNUAL_REVENUE' => 'ετήσια_εσοδα',
+	'LBL_ANNUAL_REVENUE' => 'ετήσια_έσοδα',
 	'LBL_EXPRESSION_EXAMPLE2' => "if mailingcountry == 'India' then concat(firstname,' ',lastname) else concat(lastname,' ',firstname) end",
 	'LBL_FROM' => 'Από',
 	'LBL_RUN_WORKFLOW' => 'Εκτέλεση Ροής Εργασιών',

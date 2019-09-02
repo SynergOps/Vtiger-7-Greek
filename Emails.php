@@ -18,7 +18,7 @@ $languageStrings = array(
 	'LBL_SAVE_AS_DRAFT' => 'Αποθήκευση ως πρόχειρο',
 	'LBL_GO_TO_PREVIEW' => 'Πηγαίνετε στην Προεπισκόπηση',
 	'LBL_SELECT_EMAIL_TEMPLATE' => 'Επιλέξτε Πρότυπο Email',
-	'LBL_COMPOSE_EMAIL' => 'Συντάξη Email',
+	'LBL_COMPOSE_EMAIL' => 'Σύνταξη Email',
 	'LBL_TO' => 'Προς',
 	'LBL_CC' => 'Cc',
 	'LBL_BCC' => 'Bcc',
@@ -37,7 +37,7 @@ $languageStrings = array(
 	'LBL_DESCRIPTION' => 'Περιγραφή',
 	'LBL_FROM' => 'Από',
 	'LBL_INFO' => 'Πληροφορίες',
-	'LBL_DRAFTED_ON' => 'Πρόχειρο απο τις',
+	'LBL_DRAFTED_ON' => 'Πρόχειρο από τις',
 	'LBL_SENT_ON' => 'Απεστάλη στις',
 	'LBL_OWNER' => 'Ιδιοκτήτης',
 

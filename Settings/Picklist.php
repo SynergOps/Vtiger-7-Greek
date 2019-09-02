@@ -8,7 +8,7 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_SELECT_PICKLIST_IN' => 'Επιλέξτε Λίστα Επιλογών σε',
+	'LBL_SELECT_PICKLIST_IN' => 'Διαλέξτε Λίστα Επιλογών σε',
 	'LBL_ADD_VALUE' => 'Προσθήκη Τιμής',
 	'LBL_RENAME_VALUE' => 'Μετονομασία Τιμής',
 	'LBL_DELETE_VALUE' => 'Διαγραφή Τιμής',
@@ -24,7 +24,7 @@ $languageStrings = array(
 	'LBL_DELETE_PICKLIST_ITEMS' => 'Διαγραφή Λίστας Επιλογών',
 	'LBL_ITEMS_TO_DELETE' => 'Αντικείμενα για Διαγραφή',
 	'LBL_REPLACE_IT_WITH' => 'Αντικατάσταση με',
-	'LBL_ASSIGN_TO_ROLE' => 'Ανέθεση σε Ρόλο',
+	'LBL_ASSIGN_TO_ROLE' => 'Ανάθεση σε Ρόλο',
 	'LBL_ALL_ROLES' => 'Όλοι οι Ρόλοι',
 	'LBL_CHOOSE_ROLES' => 'Επιλογή Ρόλου',
 	'LBL_ALL_VALUES' => 'Όλες οι Τιμές',

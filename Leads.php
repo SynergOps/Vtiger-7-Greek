@@ -47,7 +47,7 @@ $languageStrings = array(
 	'Junk Lead'=>'Ανεπιθύμητο Δυνητικό',
 	'Lost Lead'=>'Χαμένο Δυνητικό',
 	'Not Contacted'=>'Δεν Επικοινωνήσαμε',
-	'Pre Qualified'=>'Προεπιλέχτηκε',
+	'Pre Qualified'=>'Προεπιλέχθηκε',
 	'Qualified'=>'Πιστοποιημένος',
 	'Warm'=>'Θερμός',
 

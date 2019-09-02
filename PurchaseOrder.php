@@ -8,7 +8,7 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-    'PurchaseOrder' => 'Eντολες αγοράς',
+    'PurchaseOrder' => 'Εντολές αγοράς',
 	//DetailView Actions
 	'SINGLE_PurchaseOrder' => 'Εντολή Αγοράς',
 	'LBL_EXPORT_TO_PDF' => 'Εξαγωγή σε Pdf',
@@ -45,11 +45,11 @@ $languageStrings = array(
     'LBL_COPY_COMPANY_ADDRESS' => 'Αντιγραφή διεύθυνσης Επιχείρησης',
     'LBL_COPY_ACCOUNT_ADDRESS' => 'Αντιγραφή διεύθυνσης Εταιρείας',
 	'LBL_SELECT_ADDRESS_OPTION' => 'Επιλέξτε Διεύθυνση για αντιγραφή',
-	'LBL_BILLING_ADDRESS' => 'Διεύθηνση Χρέωσης',
-	'LBL_COMPANY_ADDRESS' => 'Διεύθηνση Επιχείρησης',
-	'LBL_ACCOUNT_ADDRESS' => 'Διεύθηνση Εταιρείας',
-	'LBL_VENDOR_ADDRESS' => 'Διεύθηνση Προμηθευτή',
-	'LBL_CONTACT_ADDRESS' => 'Διεύθηνση Πελάτη'
+	'LBL_BILLING_ADDRESS' => 'Διεύθυνση Χρέωσης',
+	'LBL_COMPANY_ADDRESS' => 'Διεύθυνση Επιχείρησης',
+	'LBL_ACCOUNT_ADDRESS' => 'Διεύθυνση Εταιρείας',
+	'LBL_VENDOR_ADDRESS' => 'Διεύθυνση Προμηθευτή',
+	'LBL_CONTACT_ADDRESS' => 'Διεύθυνση Πελάτη'
 	
 );
 

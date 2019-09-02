@@ -31,7 +31,7 @@ $languageStrings = array(
 	'Download Count' => 'Αριθμός λήψεων',
 	'Folder Name' => 'Όνομα φακέλου',
 	'Document No' => 'Αρ. αρχείου',
-	'Last Modified By' => 'Τελευταία τροποποίηση απο',
+	'Last Modified By' => 'Τελευταία τροποποίηση από',
 
 	//Folder
 	'LBL_FOLDER_HAS_DOCUMENTS' => 'Παρακαλώ μετακινήστε τα αρχεία από το φάκελο πριν τη διαγραφή',
@@ -73,7 +73,7 @@ $languageStrings = array(
     'LBL_WEB' => 'Web',
     'LBL_UPLOAD_DOCUMENT_TO_VTIGER' => 'Μεταφόρτωση αρχείων στο Vtiger',
     'LBL_UPLOAD_TO_DRIVE' => 'Μεταφόρτωση στο Drive',
-    'LBL_SELECT_FROM_DRIVE' => 'Επιλέξτε απο το Drive',
+    'LBL_SELECT_FROM_DRIVE' => 'Επιλέξτε από το Drive',
     'LBL_GOOGLE_DRIVE_FOLDERS' => 'Φάκελος Google Drive',
     'LBL_ROOT' => 'Root',
     'LBL_AUTHORIZE' => 'Authorize',
@@ -85,13 +85,13 @@ $languageStrings = array(
     'LBL_VTIGER' => 'Vtiger',
     'LBL_CREATE_YOUR_OWN' => 'Δημιούργησε δικό σου',
     'LBL_SHARE_DOCUMENT' => 'Κοινή χρήση αρχείου',
-    'LBL_UPLOAD_TO_VTIGER' => 'Μεταφόρτωση αρχίου στο Vtiger',
+    'LBL_UPLOAD_TO_VTIGER' => 'Μεταφόρτωση αρχείου στο Vtiger',
     'LBL_UPLOAD' => 'Μεταφόρτωση',
     'LBL_SELECT_FILE_FROM_COMPUTER' => 'Επιλέξτε Αρχείο από τον υπολογιστή σας',
     'LBL_FILE_UPLOAD' => 'Μεταφόρτωση αρχείου',
     'LBL_LINK_EXTERNAL_DOCUMENT' => 'Σύνδεσμος εξωτερικού εγγράφου',
     'LBL_TO_SERVICE' => 'Στην %s',
-    'LBL_FROM_SERVICE' => 'Απο %s',
+    'LBL_FROM_SERVICE' => 'Από %s',
     'LBL_CREATE_NEW' => 'Δημιουργία νέου %s',
 	'LBL_SELECT_A_FOLDER_TO_MOVE' => 'Επιλέξτε ένα φάκελο για μετακίνηση',
 );
@@ -100,7 +100,7 @@ $jsLanguageStrings = array(
 	'JS_NEW_FOLDER' => 'Νέος φάκελος',
 	'JS_MOVE_DOCUMENTS' => 'Μετακίνηση αρχείων',
 	//Move documents confirmation message
-	'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'ίστε σίγουροι ότι θέλετε να μετακινήσετε το αρχείο(α) στον',
+	'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'Είστε σίγουροι ότι θέλετε να μετακινήσετε το αρχείο(α) στον',
 	'JS_FOLDER' => 'φάκελο',
 	'JS_OPERATION_DENIED' => 'Άρνηση Λειτουργίας',
 	'JS_FOLDER_IS_NOT_EMPTY' => 'Παρακαλούμε διαγράψτε / μετακινήστε όλα τα έγγραφα στον τρέχοντα φάκελο πριν τη διαγράψετε',
