@@ -59,7 +59,7 @@ $languageStrings = array(
 	'LBL_YES' => 'Ναι',
 	'LBL_NO' => 'Όχι',
 	'LBL_SHOW_COMPLETE_DETAILS' => 'Πλήρης Λεπτομέρειες',
-	'LBL_MINILIST_FIELDS_ARE_NOT_AVAILABLE_FOR_YOU' => 'Συγνώμη! Δεν είναι διαθέσιμα τα πεδία minilist για εσάς.',
+	'LBL_MINILIST_FIELDS_ARE_NOT_AVAILABLE_FOR_YOU' => 'Συγνώμη! Δεν είναι διαθέσιμα τα πεδία μινιλίστας για εσάς.',
 	'LBL_MASS_EDITING' => 'Μαζική Επεξεργασία',
 	'LBL_DESELECT_ALL_RECORDS' => 'Αποεπιλογή όλων των εγγραφών σε όλες τις σελίδες',
 	'LBL_QUICK_CREATE' => 'Γρήγορη δημιουργία',
@@ -148,9 +148,9 @@ $languageStrings = array(
 	'LBL_SHOW_FULL_DETAILS' => 'Εμφάνιση πλήρων λεπτομερειών',
 	'LBL_SUMMARY_DETAILS' => 'Περιληπτικά Στοιχεία',
 	'LBL_ADD_NEW_COMMENT' =>'Προσθήκη Νέου Σχόλιου',
-	'LBL_NO_UPDATES' => 'Καμμία Ενημέρωση',
+	'LBL_NO_UPDATES' => 'Καμία Ενημέρωση',
 	'LBL_ACTIVITIES' => 'Δραστηριότητες',
-	'LBL_NO_PENDING_ACTIVITIES' => 'Καμμία εκκρεμής δραστηριότητα',
+	'LBL_NO_PENDING_ACTIVITIES' => 'Καμία εκκρεμής δραστηριότητα',
 	'LBL_SUMMARY' => 'Περίληψη',
 	'LBL_KEY_FIELD' => 'Βασικό πεδίο',
 	'LBL_DETAILS' => 'Λεπτομέρειες',
@@ -194,7 +194,7 @@ $languageStrings = array(
 	'ModComments' => 'Σχόλια',
 	'Potentials' => 'Ευκαιρίες',
 	'PriceBooks' => 'Τιμοκατάλογοι',
-	'Products' => 'Προιόντα',
+	'Products' => 'Προϊόντα',
 	'Project' => 'Έργα',
 	'ProjectMilestone' => 'Ορόσημα του Έργου',
 	'ProjectTask' => 'Εργασίες του Έργου',
@@ -218,19 +218,19 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => 'Λίστα Εγγραφών',
 	'LBL_RECORD_SUMMARY' => 'Σύνοψη Ενότητας',
 	'LBL_RECORD_SUMMARY' => 'Λεπτομέρειες Ενότητας',
-	'LBL_ACCESS_DENIED_FOR' => 'Η Πρόσβαση απαγορεύται για',
+	'LBL_ACCESS_DENIED_FOR' => 'Η Πρόσβαση απαγορεύεται για',
 	'LBL_GO_BACK' => 'Πίσω',
 	'LBL_NO_DATA_AVAILABLE' => 'Δεν υπάρχουν διαθέσιμα δεδομένα',
 
 	// Global Search
 	'LBL_GLOBAL_SEARCH' => 'Πληκτρολογήστε μία λέξη και πατήστε enter',
 	'LBL_ALL_RECORDS' => 'Όλες οι εγγραφές',
-	'LBL_NO_RECORDS_FOUND' => 'Δεν Βρέθηκε καμμία εγγραφή',
+	'LBL_NO_RECORDS_FOUND' => 'Δεν Βρέθηκε καμία εγγραφή',
 
 	//Filters & Advance Filter
 	'LBL_AND' => 'και',
 	'LBL_OR' => 'ή',
-	'LBL_APPLBL_NONEROVE' => 'Εγκριση',
+	'LBL_APPLBL_NONEROVE' => 'Έγκριση',
 	'LBL_DENY' => 'Άρνηση',
 	'LBL_EQUALS' => 'ίσο με',
 	'LBL_NOT_EQUAL_TO' => 'δεν είναι ίσο με',
@@ -242,7 +242,7 @@ $languageStrings = array(
 	'LBL_GREATER_THAN' => 'μεγαλύτερο από',
 	'LBL_LESS_THAN_OR_EQUAL' => 'μικρότερο ή ίσο',
 	'LBL_GREATER_OR_EQUAL' => 'μεγαλύτερο ή ίσο',
-	'LBL_BEFORE' => 'πρίν',
+	'LBL_BEFORE' => 'πριν',
 	'LBL_AFTER' => 'μετά',
 	'LBL_BETWEEN' => 'μεταξύ',
 	'LBL_SEARCH' => 'Αναζήτηση',
@@ -285,7 +285,7 @@ $languageStrings = array(
 	'LBL_TOTAL' => 'Σύνολο',
 	'LBL_NET_PRICE' => 'Καθαρή Αξία',
 	'LBL_DISCOUNT' => 'Έκπτωση',
-	'LBL_TOTAL_AFTER_DISCOUNT' => 'Σύνολο Μετά τήν Έκπτωση',
+	'LBL_TOTAL_AFTER_DISCOUNT' => 'Σύνολο Μετά την Έκπτωση',
 	'LBL_TAX' => 'Φόρος',
 	'LBL_ADD_PRODUCT' => 'Προσθήκη προϊόντος',
 	'LBL_ADD_SERVICE' => 'Προσθήκη Υπηρεσίας',
@@ -342,11 +342,11 @@ $languageStrings = array(
 	'LBL_VIA_TASK' => 'μέσω εργασίας',
 	'LBL_form' => 'από',
 	'LBL_FROM' => 'Από',
-	'LBL_TO' => 'Πρός',
-	'LBL_to' => 'πρός',
+	'LBL_TO' => 'Προς',
+	'LBL_to' => 'προς',
 	'LBL_ON' => 'στις',
 	'LBL_OF' => 'του',
-	'LBL_BY' => 'απο',
+	'LBL_BY' => 'από',
 	'LBL_ADDED' => 'προστέθηκε',
 	'LBL_FOR' => 'για',
 	'LBL_CREATED' => 'δημιουργήθηκε',
@@ -361,7 +361,7 @@ $languageStrings = array(
 	'History' => 'Ιστορικό',
 	'Upcoming Tasks' => 'Επερχόμενες Εργασίες',
 	'LBL_YEAR' => 'έτος',
-	'LBL_YEARS' => 'έτοι',
+	'LBL_YEARS' => 'έτη',
 	'LBL_MONTH' => 'μήνας',
 	'LBL_MONTHS' => 'μήνες',
 	'LBL_DAY' => 'ημέρα',
@@ -376,7 +376,7 @@ $languageStrings = array(
 	'LBL_SECONDS' => 'δευτερόλεπτα',
 	'LBL_JUSTNOW' => 'μόλις τώρα',
 	'LBL_CUSTOM_INFORMATION' => 'Προσαρμοσμένες πληροφορίες',
-	'LBL_NO_RECENT_UPDATES' => 'Καμμία πρόσφατη ενημέρωση',
+	'LBL_NO_RECENT_UPDATES' => 'Καμία πρόσφατη ενημέρωση',
 	'LBL_NO_DATA' => 'Χωρίς δεδομένα',
 	'LBL_PERMISSION_DENIED' => 'Άρνηση Έγκρισης',
 	'LBL_HANDLER_NOT_FOUND' => 'Handler not found',
@@ -388,9 +388,9 @@ $languageStrings = array(
 	'LBL_CHANGED' => 'αλλάχθηκαν',
 	'SINGLE_Users' => 'Χρήστης',
 	'LBL_MATCHED_THIS_CRITERIA'=> 'αντιστοιχούν αυτά τα κριτήρια',
-	'LBL_NO_SCHEDULED_ACTIVITIES' => 'Καμμία προγραμματισμένη δραστηριότητα',
-	'LBL_NO_OVERDUE_ACTIVITIES' => 'Καμμία εκπρόθεσμη δραστηριότητα',
-	'LBL_NO_UPDATES_OR_COMMENTS' => 'Καμμία ενημέρωση η σχόλια',
+	'LBL_NO_SCHEDULED_ACTIVITIES' => 'Καμία προγραμματισμένη δραστηριότητα',
+	'LBL_NO_OVERDUE_ACTIVITIES' => 'Καμία εκπρόθεσμη δραστηριότητα',
+	'LBL_NO_UPDATES_OR_COMMENTS' => 'Καμία ενημέρωση η σχόλια',
 	'LBL_MINI_LIST' => 'Mini Λίστα',
 	'LBL_NOTEPAD' => 'Σημειωματάριο',
 	'LBL_NOTEPAD_NAME' => 'Όνομα Σημειωματάριου',
@@ -415,7 +415,7 @@ $languageStrings = array(
 	'LBL_CHOOSE_FILTER_CONDITIONS' => 'Επιλέξτε συνθήκες φίλτρων',
 	'LBL_ADD_CONDITION' => 'Προσθήκη Συνθήκης',
 	'LBL_SET_AS_DEFAULT' => 'Ορισμός ως Προεπιλογή',
-	'LBL_LIST_IN_METRICS' => 'Εμφάνηση στους Μετρητές',
+	'LBL_LIST_IN_METRICS' => 'Εμφάνιση στους Μετρητές',
 	'LBL_SET_AS_PUBLIC' => ' Ορισμός ως Δημόσιο',
 	'LBL_AND' => 'και',
 	'LBL_OR' => 'ή',
@@ -430,7 +430,7 @@ $languageStrings = array(
 	'LBL_PREVIOUS_FQ' => 'Προηγούμενο FQ',
 	'LBL_CURRENT_FQ' => 'Τρέχων FQ',
 	'LBL_NEXT_FQ' => 'Επόμενο FQ',
-	'LBL_YESTERDAY' => 'Χθές',
+	'LBL_YESTERDAY' => 'Χθες',
 	'LBL_TODAY' => 'Σήμερα',
 	'LBL_TOMORROW' => 'Αύριο',
 	'LBL_LAST_WEEK' => 'Προηγούμενη Εβδομάδα',
@@ -462,7 +462,7 @@ $languageStrings = array(
 	'LBL_GREATER_THAN' => 'μεγαλύτερο από',
 	'LBL_LESS_THAN_OR_EQUAL' => 'μικρότερο ή ίσο',
 	'LBL_GREATER_OR_EQUAL' => 'μεγαλύτερο ή ίσο',
-	'LBL_BEFORE' => 'πρίν',
+	'LBL_BEFORE' => 'πριν',
 	'LBL_AFTER' => 'μετά',
 	'LBL_BETWEEN' => 'μεταξύ',
 	'LBL_IS_EMPTY'=> 'κενό',
@@ -477,7 +477,7 @@ $languageStrings = array(
 	'LBL_IS_ADDED' => 'έχει προστεθεί',
 	'LBL_IS_TODAY' => 'είναι σήμερα',
 	'LBL_IS_TOMORROW' => 'είναι αύριο',
-	'LBL_IS_YESTERDAY' => 'είναι χτές',
+	'LBL_IS_YESTERDAY' => 'είναι χτες',
 	'LBL_LESS_THAN_DAYS_LATER' => 'λιγότερο από ημέρες αργότερα',
 	'LBL_MORE_THAN_DAYS_LATER' => 'περισσότερο από ημέρες αργότερα',
 
@@ -489,7 +489,7 @@ $languageStrings = array(
 	'LBL_COMMENTED' => 'Σχολιάστηκε',
 
 	//calender set-reminder
-	'LBL_BEFORE_EVENT' => ' Πρίν από το Συμβάν',
+	'LBL_BEFORE_EVENT' => ' Πριν από το Συμβάν',
 
 	//Dashboard widgets
 	'History' => 'Ιστορικό',
@@ -503,7 +503,7 @@ $languageStrings = array(
 	'Forecast' => 'Πρόγνωση',
 	'Leads Created' => 'Εγγεγραμμένες Προοπτικές',
 	'Leads by Status' => 'Προοπτικές ανά Κατάσταση',
-	'Leads by Source' => 'Προοπτικές ανα Πηγή ',
+	'Leads by Source' => 'Προοπτικές ανά Πηγή ',
 	'Leads by Industry' => 'Προοπτικές ανά Κλάδο',
 	'Tickets by Status' => 'Δελτία ανά Κατάσταση',
 	'Open Tickets' => 'Ανοιχτά Δελτία',
@@ -613,7 +613,7 @@ $languageStrings = array(
 	'Transportation'=>'Ταξίδια',
 	'Utilities'=>'Παροχών',
 
-	'Contact Name' => 'Όνομα Πελτάτη',
+	'Contact Name' => 'Όνομα Πελάτη',
 	'Conversion Rate' => 'Ποσοστό μετατροπής',
 
 	'Shipping Address' => 'Διεύθυνση Αποστολής',
@@ -645,7 +645,7 @@ $languageStrings = array(
 	'Secondary Email' => 'Δευτερεύον Email',
 	'Other Email' => 'Άλλο Email',
 	'Email Opt Out' => 'Εξαίρεση από Email',
-	'Is Converted From Lead' => 'Μετατράπηκε απο Δυνητικός',
+	'Is Converted From Lead' => 'Μετατράπηκε από Δυνητικός',
 	'Expected Close Date' => 'Αναμενόμενη ημερομηνία κλεισίματος',
 	'Fax' => 'Φαξ',
 
@@ -686,7 +686,7 @@ $languageStrings = array(
 	'LBL_DESCRIPTION_INFORMATION' => 'Λεπτομέρειες Περιγραφής',
 	'LBL_TERMS_INFORMATION' => 'Όροι και Προϋποθέσεις',
 	'LBL_PRICING_INFORMATION' => 'Πληροφορίες Τιμολόγησης',
-	'LBL_RELATED_PRODUCTS' => 'Λεπτομέρειες προιόντος',
+	'LBL_RELATED_PRODUCTS' => 'Λεπτομέρειες προϊόντος',
 	'LBL_REMINDER_INFORMATION' => 'Λεπτομέρειες υπενθύμισης',
 
 	'LBL_FOLDER_SAVED' => 'Ο φάκελος αποθηκεύτηκε',
@@ -697,7 +697,7 @@ $languageStrings = array(
 	'Lead Source' => 'Προέλευση Δυνητικού',
 	'Mobile' => 'Κινητό Τηλέφωνο',
 
-	'Notify Owner' => 'Ειδοποίηση κατώχου',
+	'Notify Owner' => 'Ειδοποίηση κατόχου',
 	'Other Phone' => 'Δευτερεύον Τηλ',
 	'Phone' => 'Πρωτεύον Τηλέφωνο',
 
@@ -720,7 +720,7 @@ $languageStrings = array(
 	'Support Start Date' => 'Ημ. Έναρξης Υποστήριξης',
 	'Support Expiry Date' => 'Ημ. Λήξης Υποστήριξης',
 	'Sales Start Date'=>'Ημ. Έναρξης Πώλησης',
-	'Sales End Date'=>'Ημ.Λήξης Πώλησης',
+	'Sales End Date'=>'Ημ. Λήξης Πώλησης',
 
 	//Dashboard list of widgets translation
 	'Open Tickets' => 'Ανοιχτά Αιτήματα',
@@ -768,7 +768,7 @@ $languageStrings = array(
 
 	'LBL_NO_RECORDS' => 'Καμία Εγγραφή',
 	'LBL_NO_RELATED' => 'Κανένας Συσχετισμός',
-	'LBL_GLOBAL_SEARCH_MAX_MESSAGE' => 'Μόνο τα 100 πρώτα αποτελέσματα των ενοτήτων εμφανίζονται παρακάτω. Για σχετικά αποτελέσματα απο μια ενότητα παρακαλώ επιλέξτε την ενότητα για αναζήτηση',
+	'LBL_GLOBAL_SEARCH_MAX_MESSAGE' => 'Μόνο τα 100 πρώτα αποτελέσματα των ενοτήτων εμφανίζονται παρακάτω. Για σχετικά αποτελέσματα από μια ενότητα παρακαλώ επιλέξτε την ενότητα για αναζήτηση',
 	'LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE' => 'Μόνο τα 100 πρώτα αποτελέσματα εμφανίζονται παρακάτω. Παρακαλώ χρησιμοποιήστε την Σύνθετη Αναζήτηση αν δεν ικανοποιήστε από το αποτέλεσμα',
 
 	// used in reports detail view
@@ -862,7 +862,7 @@ $languageStrings = array(
 	//Comments Field Labels for Workflow
 	'Comment' => 'Σχόλιο',
 	'Last Comment' => 'Τελευταίο Σχόλιο',
-	'Last 5 Comments' => 'ελευταία 5 Σχόλια',
+	'Last 5 Comments' => 'Τελευταία 5 Σχόλια',
 	'All Comments' => 'Όλα τα Σχόλια',
 
 	//Feedback on removing old version
@@ -876,7 +876,7 @@ $languageStrings = array(
 
 	//Products Popup View
 	'NOT_A_BUNDLE' => 'Δεν είναι Συνδυαστικό πακέτο',
-	'LBL_SUB_PRODUCTS' => 'Υπο-προϊόντα',
+	'LBL_SUB_PRODUCTS' => 'Υποκείμενα-προϊόντα',
 	'LBL_MARK_AS_HELD' => 'Σημείωση ως Διεξήχθη',
 	'LBL_MARK_AS_COMPLETED' => 'Σημειώστε ως Ολοκληρωμένο',
 	'LBL_SMS_MAX_CHARACTERS_ALLOWED' => 'Για μηνύματα κειμένου επιτρέπονται έως 160 χαρακτήρες',
@@ -948,7 +948,7 @@ $languageStrings = array(
 
 	//Recipient preferences labels
 	'LBL_SELCT_EMAIL_RECIPIENTS' => 'Επιλέξτε παραλήπτες του email',
-	'LBL_REMEMBER_MY_PREF' => 'Απομνημονεύση της προτίμησής μου',
+	'LBL_REMEMBER_MY_PREF' => 'Απομνημόνευση της προτίμησής μου',
 	'LBL_RECIPIENT_PREFS'=>'Προτιμήσεις παραλήπτη',
 	'LBL_EMAIL_RECIPIENT_PREFS'=>'Προτιμήσεις παραλήπτη email',
 	'LBL_ERROR_SAVING_PREF' => 'Σφάλμα κατά την αποθήκευση προτιμήσεων. Παρακαλώ δοκιμάστε αργότερα!',
@@ -1081,8 +1081,8 @@ $languageStrings = array(
 	'LBL_DOWNLOAD_FILE' => 'Λήψη αρχείου',
 	'LBL_PREVIEW_NOT_AVAILABLE' => 'Η προεπισκόπηση δεν είναι διαθέσιμη',
 	'LBL_PREVIEW_SUPPORTED_FILES' => '<b><strong>Υποστηριζόμενοι τύποι αρχείων : </strong></b><br><br><b>Αρχεία Pdf</b><br><b>Αρχεία κειμένου - </b>txt,csv,ics<br><b>Αρχεία Open Document - </b>open document κείμενο(odt),open document λογιστικό φύλλο(ods) and open document παρουσίαση(odp)<br><b>Αρχεία πολυμέσων - </b>αρχεία εικόνας, ήχου & βίντεο<br>',
-	'Mailing Address' => 'Ταχυδρομική διεύθηνση',
-	'Other Address' => 'Άλλη διεύθηνση',
+	'Mailing Address' => 'Ταχυδρομική διεύθυνση',
+	'Other Address' => 'Άλλη διεύθυνση',
 	'LBL_PREVIOUS' => 'Προηγούμενο',
 	'LBL_NEXT' => 'Επόμενο',
 	'Workflows' => 'Ροή εργασιών',
@@ -1261,7 +1261,7 @@ $languageStrings = array(
 	'LBL_SHOW_TOTAL_NUMBER_OF_RECORDS' => 'Κάντε κλικ για το μέγεθος λίστας',
 
 	'LBL_GENERAL_FIELDS' => 'Γενικά πεδία',
-	'LBL_ROLL_UP' => 'Συγκέτρωση',
+	'LBL_ROLL_UP' => 'Σύμπτυξη',
 
 	'LBL_TOUCH_POINTS' => 'Σημεία επαφής',
 	'LBL_HISTORY' => 'Ιστορικό',
@@ -1351,7 +1351,7 @@ $languageStrings = array(
 	'LBL_NO_DEDUCTED_TAX'=>'Δεν έχουν αφαιρεθεί οι φόροι',
 	'LBL_CLICK_TO_CONFIGURE'=>'Κάντε κλικ εδώ για να διαμορφώσετε',
 	'LBL_KANBAN_VIEW_INFO' => 'Η προβολή Kanban δείχνει μόνο τις ευκαιρίες που αντιστοιχούν στις συνθήκες αυτής της λίστας',
-	'LBL_CUSTOM_FIELDS_MAX_LIMIT' => 'Μπορείτε να προσθέσετε το μέγιστο %s απο προσαρμοσμένα πεδία',
+	'LBL_CUSTOM_FIELDS_MAX_LIMIT' => 'Μπορείτε να προσθέσετε το μέγιστο %s από προσαρμοσμένα πεδία',
 	'LBL_EXCEEDED_MODULE_RECORD_LIMIT' => '%s το όριο εγγραφών (%s) υπερέβη',
 	'LBL_EXCEEDED_MODULE_RECORD_LIMIT_TEXT' =>'Διαπιστώσαμε ότι έχετε περισσότερες από %s εγγραφές στο %s. <br> Υπερβαίνει το μέγιστο όριο αυτής της έκδοσης. <br>Καταργήστε τις υπερβολικές εγγραφές και δοκιμάστε ξανά',
 	'LBL_TEMPLATE_INFO_PART1'=>'Για να δείτε όλα τα πρότυπα ή τα πρότυπα άλλων ενοτήτων, εισαγάγετε το όνομα της ενότητας ή το "Όλα" στο πλαίσιο αναζήτησης Ενότητας.', 
@@ -1390,8 +1390,8 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_EMAIL_SERVER_CONFIGURATION' => 'Παρακαλώ διαμορφώστε τις Ρυθμίσεις του εξερχόμενου διακομιστή απο την σελίδα ΡΥΘΜΙΣΕΙΣ',
-	'JS_SMS_SERVER_CONFIGURATION' => 'Παρακαλώ διαμορφώστε τις ρυθμίσεις των ειδοποιήσεων SMS απο την σελίδα ΕΙΔΟΠΟΙΗΣΕΙΣ SMS',
+	'JS_EMAIL_SERVER_CONFIGURATION' => 'Παρακαλώ διαμορφώστε τις Ρυθμίσεις του εξερχόμενου διακομιστή από την σελίδα ΡΥΘΜΙΣΕΙΣ',
+	'JS_SMS_SERVER_CONFIGURATION' => 'Παρακαλώ διαμορφώστε τις ρυθμίσεις των ειδοποιήσεων SMS από την σελίδα ΕΙΔΟΠΟΙΗΣΕΙΣ SMS',
 	'JS_PLEASE_SELECT_ONE_RECORD' => 'Παρακαλώ επιλέξτε τουλάχιστον μία εγγραφή',
 	//dropdown categary
 	'JS_USERS' => 'Χρήστες',
@@ -1415,7 +1415,7 @@ $jsLanguageStrings = array(
 	'JS_PERCENTAGE_SHOULD_BE_LESS_THAN_100' => 'Το ποσοστό πρέπει να είναι μικρότερο από 100',
 
 
-	'INVALID_NUMBER_OF' => 'Μη εγκυρος αριθμός από',
+	'INVALID_NUMBER_OF' => 'Μη έγκυρος αριθμός από',
 	'INVALID_NUMBER' => 'Μη έγκυρος αριθμός',
 	'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'Είστε σίγουρος/η ότι Θέλετε να διαγράψετε;',
 
@@ -1424,12 +1424,12 @@ $jsLanguageStrings = array(
 	'SINGLE_Accounts' => 'Εταιρεία',
 	'SINGLE_Contacts' => 'Πελάτης',
 	'SINGLE_Project' => 'Έργο',
-	'SINGLE_ProjectMilestone' => 'Ορόσιμο Έργου',
+	'SINGLE_ProjectMilestone' => 'Ορόσημο Έργου',
 
 	'LBL_DELETE_CONFIRMATION' => 'Είστε βέβαιοι για την διαγραφή;', // This is added as duplicate as we need to show different message for different modules. Ex:Accounts has different message
 	'LBL_UNLINK_CONFIRMATION' => 'Είστε βέβαιοι για την αποσύνδεση;',
 	'LBL_DELETE_USER_CONFIRMATION' => 'Όταν ένας χρήστης διαγραφεί, ο χρήστης θα επισημανθεί ως "ανενεργός" και δεν θα μπορεί να ανατεθεί καμία νέα εγγραφή στο χρήστη και ο χρήστης δεν θα μπορέσει να συνδεθεί. Είστε βέβαιοι ότι θέλετε να διαγράψετε;',
-	'LBL_DELETE_CONFIRMATION_NOTE' => 'Σημείωση: Οι διαγραμμένες εγγραφές θα φυλάσσονται στον κάδο ανακύκλωσης και θα καθαρίζονται μετά απο %s ημέρες.',
+	'LBL_DELETE_CONFIRMATION_NOTE' => 'Σημείωση: Οι διεγραμμένες εγγραφές θα φυλάσσονται στον κάδο ανακύκλωσης και θα καθαρίζονται μετά από %s ημέρες.',
 	'LBL_MASS_DELETE_CONFIRMATION' => 'Είστε βέβαιοι ότι θέλετε να διαγράψετε τις επιλεγμένες εγγραφές;',
 	'JS_LBL_SAVE' => 'Αποθήκευση',
 	'JS_LBL_CANCEL' => 'Ακύρωση',
@@ -1481,7 +1481,7 @@ $jsLanguageStrings = array(
 	'JS_YOU_CAN_SELECT_ONLY'=> 'Μπορείτε να επιλέξετε μόνο',
 	'JS_ITEMS' => 'αντικείμενα',
 
-	'JS_LBL_PERMISSION' => 'Διακιώματα πρόσβασης',
+	'JS_LBL_PERMISSION' => 'Δικαιώματα πρόσβασης',
 	'JS_CHECK_FILE_INTEGRITY' => 'Έλεγχος Ακεραιότητας Αρχείου',
 	'JS_DUPLICATE_RECORD' => 'Διπλότυπη εγγραφή',
 
@@ -1554,7 +1554,7 @@ $jsLanguageStrings = array(
 	'JS_MORE_THAN_ONE_ITEM_SELECTED' => 'Περισσότερα από ένα Αντικείμενα έχουν επιλεχθεί',
 	'JS_ITEMS_DELETED_SUCCESSFULLY' => 'Το Αντικείμενο διαγράφτηκε επιτυχώς',
 	'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Διπλές καταχωρίσεις βρέθηκαν για την τιμή',
-	'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => 'Πρέπει να επιλέξετε τις εγγραφές απο τις ίδιες ομάδες για συγχώνευση',
+	'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => 'Πρέπει να επιλέξετε τις εγγραφές από τις ίδιες ομάδες για συγχώνευση',
 	'JS_SELECT_ATLEAST_TWO_RECORD_FOR_MERGING' => 'Επιλέξτε τουλάχιστον δύο εγγραφές για συγχώνευση',
 	'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS' => 'Το επιτρεπόμενο ανώτατο όριο επιλογής είναι Τρεις Εγγραφές',
 	//Notification message for dashboard widget delete
@@ -1562,7 +1562,7 @@ $jsLanguageStrings = array(
 	'JS_ARE_YOU_SURE_TO_DELETE_DASHBOARDTAB' => 'Είστε Σίγουροι ότι θέλετε να διαγράψετε αυτή την καρτέλα Πίνακα ελέγχου - %s;',
 	'JS_TABS_LIMIT_EXCEEDED' => 'Συγνώμη! Δεν είναι δυνατή η προσθήκη περισσότερων από 10 καρτελών',
 	'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Διπλές καταχωρίσεις βρέθηκαν για αυτή την τιμή',
-	'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => 'Για συγχώνευση πρέπει να επιλέξετε τις εγγραφές απο τις ίδιες ομάδες',
+	'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => 'Για συγχώνευση πρέπει να επιλέξετε τις εγγραφές από τις ίδιες ομάδες',
 	'JS_SELECT_ATLEAST_TWO_RECORD_FOR_MERGING' => 'Επιλέξτε τουλάχιστον δύο εγγραφές για συγχώνευση',
 	'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS' => 'Έχετε τη δυνατότητα να επιλέξετε έως και τρεις εγγραφές',
 	'JS_TOTAL_RECORDS' => 'Συνολικές Εγγραφές',
@@ -1579,17 +1579,17 @@ $jsLanguageStrings = array(
 	'JS_RECORD_GETTING_DELETED' => 'Η εγγραφή αρχίζει να Διαγράφεται',
 	'JS_NO_RESULTS_FOUND' => 'Δεν βρέθηκαν αποτελέσματα',
 
-	'JS_RECORDS TRANSFERRED SUCCESSFULLY' => 'Τα δικαιώμτα των εγγραφών έχουν μεταφερθεί με επιτυχία',
+	'JS_RECORDS TRANSFERRED SUCCESSFULLY' => 'Τα δικαιώματα των εγγραφών έχουν μεταφερθεί με επιτυχία',
 
 	//TextSearch Language String
 	'LBL_SEARCHING' => 'Αναζήτηση σε ',
-	'JS_RECORDS_TRANSFERRED_SUCCESSFULLY' => 'Τα δικαιώμτα των εγγραφών έχουν μεταφερθεί με επιτυχία.',
+	'JS_RECORDS_TRANSFERRED_SUCCESSFULLY' => 'Τα δικαιώματα των εγγραφών έχουν μεταφερθεί με επιτυχία.',
 	'JS_USER_DELETED_SUCCESSFULLY' => 'Ο χρήστης διαγράφηκε επιτυχώς.',
 
 	'JS_MAX_RECORDS_LIMIT' => 'Μέγιστες εγγραφές για εκτύπωση είναι :',
 	'JS_USER_EXISTS' => 'Ο Χρήστης Υπάρχει ήδη',
 	'JS_REENTER_PASSWORDS' => 'Επανεισάγετε τα συνθηματικά',
-	'LBL_SIGN_IN_AS_USER'=>'Αν συνδεθείτε ως ένας άλλος χρήστης θα τερματίστει η τρέχουσα συνεδρία. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;',
+	'LBL_SIGN_IN_AS_USER'=>'Αν συνδεθείτε ως ένας άλλος χρήστης θα τερματιστεί η τρέχουσα συνεδρία. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;',
 	'JS_REENTER_PASSWORDS' => 'Επανεισάγετε τα συνθηματικά',
 	'SINGLE_Vendors' => 'Προμηθευτής',
 
@@ -1737,7 +1737,7 @@ $jsLanguageStrings = array(
 	'profile' => 'Προφίλ',
 	'blog' => 'Blog',
 	'home-page' => 'Αρχική σελίδα',
-	'address' => 'Διεύθηνση',
+	'address' => 'Διεύθυνση',
 
 	// Cron
 	'JS_NONE_OF_THE_VALUES_ARE_CHANGED' => 'Καμία από τις τιμές δεν άλλαξε',
@@ -1759,7 +1759,7 @@ $jsLanguageStrings = array(
 	'JS_RELATION_ADDED_SUCESSFULLY' => 'Relation Added Successfully',
 	'JS_FAILED_TO_ADD_RELATION' => 'Failed To Add Relation',
 	'JS_SOCIAL_POST_DELETE_CONFIRMATION' => 'Are you sure you want to delete?',
-	'JS_EVENT_OR_TODO_ADDED_SUCCESS_MSG' => 'Event/Task added sucessfully',
+	'JS_EVENT_OR_TODO_ADDED_SUCCESS_MSG' => 'Event/Task added successfully',
 	'JS_LEAD_ADDED_SUCCESS_MSG' => 'Lead added successfully',
 	'JS_OPPORTUNITY_ADDED_SUCESS_MSG' => 'Opportunity added successfully',
 	'JS_TICKET_ADDED_SUCESS_MSG' => 'Ticket added successfully',
@@ -1846,7 +1846,7 @@ $jsLanguageStrings = array(
 
 	'JS_LBL_MY_PREFERENCES' => 'Οι προτιμήσεις μου',
 	'JS_LBL_MY_PREFERENCES_TEXT' => 'Διαμορφώστε τις προσωπικές προτιμήσεις σας, συμπεριλαμβανομένης της ζώνης ώρας, του νομίσματος και της μορφής ημερομηνίας. Μπορείτε επίσης να ανεβάσετε εικόνα προφίλ από τις Προτιμήσεις μου.',
-	'JS_LBL_HELP' => 'Βοήεθεια',
+	'JS_LBL_HELP' => 'Βοήθεια',
 	'JS_LBL_HELP_TEXT' => 'Click on Help button to find Guides and FAQs, and use the Help menu dropdown to get assistance from Vtiger support team',
 	'JS_LBL_RESTART_TOUR' => 'Restart Guided Tour',
 	'JS_LBL_RESTART_TOUR_TEXT' => 'Click here to start this tour again',
@@ -1911,7 +1911,7 @@ $jsLanguageStrings = array(
 	'JS_WARNING' => 'Προειδοποίηση',
 	'JS_CANT_SELECT_LEAD' => 'Δεν είναι δυνατή η επιλογή του σχετικού Δυνητικού',
 	'JS_CANT_SELECT_CONTACT' => 'Δεν είναι δυνατή η επιλογή του σχετικού Πελάτη',
-	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Είστε βέβαιοι ότι θέλετε να καταργήσετε οριστικά όλες τις διαγραμμένες εγγραφές από τη βάση δεδομένων σας;',
+	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Είστε βέβαιοι ότι θέλετε να καταργήσετε οριστικά όλες τις διεγραμμένες εγγραφές από τη βάση δεδομένων σας;',
 	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Είστε βέβαιοι ότι θέλετε να επαναφέρετε τις εγγραφές;',
 	'JS_COMMENT_POSTED_SUCCESSFULLY'=>'Το σχόλιο δημοσιεύτηκε με επιτυχία',
 	'JS_SHARED_PUBLICLY_WITH'=>'Μοιράστηκε δημόσια με',
@@ -1927,7 +1927,7 @@ $jsLanguageStrings = array(
 	'JS_DEFAULT_SORT_NOTIFY' => 'Η λίστα ταξινομείται τώρα στην προεπιλεγμένη στήλη ταξινόμησης ',
 	'JS_ENABLED' => 'Ενεργοποιημένη',
 	'JS_DISABLED' => 'Απενεργοποιημένη',
-	'JS_ONLY_ALLOWED_USERS_ARE_ALLOWED_TO_DO_ACTION'=>'Δεν μπορέσαμε να επισημάνουμε τη συνομιλία ως μη αναγνωσμένη / αναγνωσμένη / διεγραμένη / ολοκληρωμένη / ιδιωτική / δημόσια από τη στιγμή που δεν σας ανήκει.',
+	'JS_ONLY_ALLOWED_USERS_ARE_ALLOWED_TO_DO_ACTION'=>'Δεν μπορέσαμε να επισημάνουμε τη συνομιλία ως μη αναγνωσμένη / αναγνωσμένη / διαγραμμένη / ολοκληρωμένη / ιδιωτική / δημόσια από τη στιγμή που δεν σας ανήκει.',
 	'JS_SHARED_WITH'=>'Μοιρασμένο με',
 	'JS_DEFAULT_DASHBOARD_TOOLTIP' => 'Ορίστε αυτόν τον πίνακα ελέγχου ως προεπιλογή, ανακατατάσσοντάς τον ως την πρώτη καρτέλα!',
 	'JS_SET_DEFAULT_TAB' => 'ορίστηκε ως ο προεπιλεγμένος πίνακας ελέγχου',
