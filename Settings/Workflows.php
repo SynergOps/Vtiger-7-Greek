@@ -27,7 +27,7 @@ $languageStrings = array(
 	'MANUAL' => 'Σύστημα',
 	'SCHEDULE_WORKFLOW' => 'Προγραμματισμός Ροής Εργασιών',
 	'ADD_CONDITIONS' => 'Προσθήκη Συνθηκών',
-	'ADD_TASKS' => 'Προσθήκη Ενεργιών',
+	'ADD_TASKS' => 'Προσθήκη Ενεργειών',
 
 	//Step2 edit view
 	'LBL_EXPRESSION' => 'Έκφραση',
@@ -76,7 +76,7 @@ $languageStrings = array(
 	
 	'LBL_NO_TASKS_ADDED' => 'Καμία Ενέργεια',
 	'LBL_CANNOT_DELETE_DEFAULT_WORKFLOW' => 'Δεν μπορείτε να διαγράψετε προεπιλεγμένη ροή εργασίας',
-	'LBL_MODULES_TO_CREATE_RECORD' => 'Άρθρωμα που δημιουργεί εγγραφή',
+	'LBL_MODULES_TO_CREATE_RECORD' => 'Ενότητα που δημιουργεί εγγραφή',
 	'LBL_EXAMPLE_EXPRESSION' => 'Έκφραση',
 	'LBL_EXAMPLE_RAWTEXT' => 'Ακατέργαστο Κείμενο',
 	'LBL_VTIGER' => 'Vtiger',
