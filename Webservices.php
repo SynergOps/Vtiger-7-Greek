@@ -10,8 +10,8 @@
   ********************************************************************************/
 
 $languageStrings = array(
-	'LBL_CHANGE_PASSWORD_FAILURE' => 'Failed to change password',
-	'LBL_DATABASE_QUERY_ERROR' => 'Database error while performing requested operation',
-	'LBL_INVALID_OLD_PASSWORD' => 'Invalid value given for old password.',
-	'LBL_NEW_PASSWORD_MISMATCH' => "New Password and confirm password don't match",
+	'LBL_CHANGE_PASSWORD_FAILURE' => 'Αποτυχία στην αλλαγή του Συνθηματικού',
+	'LBL_DATABASE_QUERY_ERROR' => 'Σφάλμα βάσης δεδομένων κατά την εκτέλεση της ζητούμενης λειτουργίας',
+	'LBL_INVALID_OLD_PASSWORD' => 'Μη έγκυρη τιμή δίνεται για το παλιό Συνθηματικό.',
+	'LBL_NEW_PASSWORD_MISMATCH' => 'Το νέο Συνθηματικό και το Συνθηματικό Επιβεβαίωσης δεν ταιριάζουν',
 );
