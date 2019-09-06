@@ -9,39 +9,40 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Roles' => 'Roles',
-	'SINGLE_Roles' => 'Role',
-	'LBL_ADD_RECORD' => 'Add Role',
-	'LBL_DELETE_ROLE' => 'Delete Role',
-	'LBL_TRANSFER_OWNERSHIP' => 'Transfer Ownership',
-	'LBL_TO_OTHER_ROLE' => 'To other Role',
-	'LBL_CLICK_TO_EDIT_OR_DRAG_TO_MOVE' => 'Click to edit/Drag to move',
-	'LBL_ASSIGN_ROLE' => 'Assign Role',
-	'LBL_CHOOSE_PROFILES' => 'Choose profiles',
-	'LBL_COPY_PRIVILEGES_FROM' => 'Copy privileges from',
+	'Roles' => 'Ρόλοι',
+	'SINGLE_Roles' => 'Ρόλος',
+	'LBL_ADD_RECORD' => 'Προσθήκη Ρόλου',
+	'LBL_DELETE_ROLE' => 'Διαγραφή Ρόλου',
+	'LBL_TRANSFER_OWNERSHIP' => 'Μεταφορά Κυριότητας',
+	'LBL_TO_OTHER_ROLE' => 'σε άλλον Ρόλο',
+	'LBL_CLICK_TO_EDIT_OR_DRAG_TO_MOVE' => 'Κλικ για επεξεργασία και μετακίνηση',
+	'LBL_ASSIGN_ROLE' => 'Ανάθεση Ρόλου',
+	'LBL_CHOOSE_PROFILES' => 'Επιλέξτε Προφίλ',
+	'LBL_COPY_PRIVILEGES_FROM' => 'Αντιγραφή δικαιωμάτων από',
+
     'LBL_TRANSFER_TO_OTHER_ROLE' =>'Transfer ownership to other role',
 	
 	//Edit View
-	'LBL_PROFILE' => 'Profile',
-	'LBL_REPORTS_TO' => 'Reports To',
-	'LBL_NAME' => 'Name',
-	'LBL_ASSIGN_NEW_PRIVILEGES' => 'Assign privileges directly to Role',
-	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'Assign priviliges from existing profiles',
-	'LBL_PRIVILEGES' => 'Privileges',
-	'LBL_DUPLICATES_EXIST' => 'Duplicate Role Exists',
+	'LBL_PROFILE' => 'Προφίλ',
+	'LBL_REPORTS_TO' => 'Δίνει αναφορά στην/στον',
+	'LBL_NAME' => 'Όνομα',
+	'LBL_ASSIGN_NEW_PRIVILEGES' => 'Ανάθεση δικαιωμάτων απευθείας στον Ρόλο',
+	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'Ανάθεση δικαιωμάτων από υφιστάμενο Προφίλ',
+	'LBL_PRIVILEGES' => 'Δικαιώματα',
+	'LBL_DUPLICATES_EXIST' => 'Υπάρχει διπλότυπος Ρόλος',
 	
 	//Assign Records to
-	'LBL_CAN_ASSIGN_RECORDS_TO' => 'Can Assign Records To',
-	'LBL_ALL_USERS' => 'All Users',
-	'LBL_USERS_WITH_LOWER_LEVEL' => 'Users having Subordinate Role',
-	'LBL_USERS_WITH_SAME_OR_LOWER_LEVEL' => 'Users having Same Role or Subordinate Role',
-    
-    /*Vtiger7 String*/
-    'LBL_EDIT_ROLE' => 'Edit Role',
-	'LBL_CREATE_ROLE' => 'Create Role',
+	'LBL_CAN_ASSIGN_RECORDS_TO' => 'Μπορούν να ανατεθούν εγγραφές στην/στον',
+	'LBL_ALL_USERS' => 'Όλοι οι Χρήστες',
+	'LBL_USERS_WITH_LOWER_LEVEL' => 'Χρήστες με δευτερεύοντα Ρόλο',
+	'LBL_USERS_WITH_SAME_OR_LOWER_LEVEL' => 'Χρήστες με ίδιο η δευτερεύοντα Ρόλο',
+
+	/*Vtiger7 String*/
+	'LBL_EDIT_ROLE' => 'Επεξεργασία Ρόλου',
+	'LBL_CREATE_ROLE' => 'Δημιουργία Ρόλου',
 );
 
 $jsLanguageStrings = array(
-	'JS_PERMISSION_DENIED' => 'Permissions Denied',
-	'JS_NO_PERMISSIONS_TO_MOVE' => 'No Permissions to Move',
+	'JS_PERMISSION_DENIED' => 'Άρνηση Δικαιώματος',
+	'JS_NO_PERMISSIONS_TO_MOVE' => 'Κανένα δικαίωμα για Μετακίνηση',
 );

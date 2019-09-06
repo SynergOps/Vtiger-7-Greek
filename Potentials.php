@@ -59,7 +59,7 @@ $languageStrings = array(
 	'LBL_RELATED_PRODUCTS' => 'Σχετικά Προϊόντα',
     
     //Convert Potentials
-    'LBL_CONVERT_POTENTIAL' => 'Μετατροπή Εκαιρείας',
+    'LBL_CONVERT_POTENTIAL' => 'Μετατροπή Ευκαιρίας',
 	'LBL_CREATE_PROJECT' => 'Δημιουργία Έργου',
     'LBL_POTENTIALS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων Ευκαιριών',
     'LBL_CONVERT_POTENTIALS_ERROR' => 'Πρέπει να ενεργοποιήσετε την ενότητα Έργα για να μετατρέψετε την Ευκαιρία',

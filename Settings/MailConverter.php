@@ -144,7 +144,7 @@ $languageStrings = array(
     
     //Select Folder
     'LBL_UPDATE_FOLDERS' => 'Ενημέρωση Φακέλλων',
-    'LBL_UNSELECT_ALL' => 'Αποεπιλογή Όλων',
+    'LBL_UNSELECT_ALL' => 'Προεπιλογή Όλων',
 	
 	//Setup Rules
 	'LBL_CONVERT_EMAILS_TO_RESPECTIVE_RECORDS' => 'Μετατρέψτε τα email σε αντίστοιχες εγγραφές',
@@ -164,22 +164,22 @@ $languageStrings = array(
     // Body Rule
     'LBL_AUTOFILL_VALUES_FROM_EMAIL_BODY' => 'Τιμές αυτόματης συμπλήρωσης από το σώμα του email',
     'LBL_DELIMITER' => 'Διαχωριστής',
-    'LBL_COLON' => ': (Ανω κάτω τελεία)',
-    'LBL_SEMICOLON' => '; (Ανω τελεία)',
+    'LBL_COLON' => ': (Άνω κάτω τελεία)',
+    'LBL_SEMICOLON' => '; (Άνω τελεία)',
     'LBL_DASH' => '- (Παύλα)',
     'LBL_EQUAL' => '= (Ίσον)',
     'LBL_GREATER_THAN' => '> (Μεγαλύτερος από)',
-    'LBL_COLON_DASH' => ':- (Ανω κάτω τελεία-Παύλα)',
-    'LBL_COLON_EQUAL' => ':= (Ανω κάτω τελεία-Ίσον)',
-    'LBL_SEMICOLON_DASH' => ';- (Ανω τελεία-Παύλα)',
-    'LBL_SEMICOLON_EQUAL' => ';= (Ανω τελεία-Ίσον)',
+    'LBL_COLON_DASH' => ':- (Άνω κάτω τελεία-Παύλα)',
+    'LBL_COLON_EQUAL' => ':= (Άνω κάτω τελεία-Ίσον)',
+    'LBL_SEMICOLON_DASH' => ';- (Άνω τελεία-Παύλα)',
+    'LBL_SEMICOLON_EQUAL' => ';= (Άνω τελεία-Ίσον)',
     'LBL_EQUAL_GREATER_THAN' => '=> (Ίσον-Μεγαλύτερος από)',
     'LBL_OTHER' => 'Άλλο',
     'LBL_DELIMITER_INFO' => 'Επιλέξτε τον διαχωριστή που χωρίζει τις τιμές από τις ετικέτες στο σώμα του email σας',
     'LBL_EMAIL_BODY_INFO' => 'Αντιγράψτε κείμενο από ένα δείγμα email που θα σαρωθεί στο παρακάτω πλαίσιο. Το Vtiger CRM θα προσπαθήσει να εντοπίσει τιμές και να σας βοηθήσει να τα διασυνδέσετε σε πεδία CRM.',
     'LBL_SAMPLE_BODY_TEXT' => 'Δείγμα κειμένου σώματος',
     'LBL_FIND_FIELDS' => 'Κάντε κλικ εδώ για να βρείτε τιμές από το σώμα email',
-    'LBL_BODY_FIELDS' => 'Τιμές απο Email',
+    'LBL_BODY_FIELDS' => 'Τιμές από Email',
     'LBL_CRM_FIELDS' => 'Πεδία CRM',
     'LBL_MAP_TO_CRM_FIELDS' => 'Διασύνδεση τιμών σε πεδία CRM',
     'SELECT_FIELD' => 'Επιλογή Πεδίου',

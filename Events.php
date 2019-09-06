@@ -18,7 +18,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => 'Προβολή Λίστας',
 	'LBL_EVENTS' => 'Συμβάντα',
 	'LBL_TODOS' => 'Εργασία',
-	'LBL_HOLD_FOLLOWUP_ON' => 'Διεξαγβγή Followup στις',
+	'LBL_HOLD_FOLLOWUP_ON' => 'Διεξαγωγή Followup στις',
 	'LBL_CREATE_FOLLOWUP_EVENT' => 'Δημιουργία Follow Up Συμβάντος',
 	
 	// Blocks
@@ -27,7 +27,7 @@ $languageStrings = array(
 	'LBL_RELATED_TO' => 'Σχετίζετε με',
 	
 	//Fields
-	'Start Date & Time'=>'Ημ.Έναρξης',
+	'Start Date & Time'=>'Ημ. Έναρξης',
 	'Recurrence' => 'Επανάληψη',
 	'Send Notification' => 'Αποστολή Ειδοποίησης',
 	'Location'=>'Τοποθεσία',
@@ -57,10 +57,10 @@ $languageStrings = array(
 	'LBL_HOURS' => 'Ώρες',
 	
 	//Repeat Labels
-	'LBL_DAYS_TYPE' => 'Day(s)',
-	'LBL_WEEKS_TYPE' => 'Week(s)',
-	'LBL_MONTHS_TYPE' => 'Month(s)',
-	'LBL_YEAR_TYPE' => 'Year',
+	'LBL_DAYS_TYPE' => 'Ημέρα(ες)',
+	'LBL_WEEKS_TYPE' => 'Εβδομάδα(ες)',
+	'LBL_MONTHS_TYPE' => 'Μήνας(ες)',
+	'LBL_YEAR_TYPE' => 'Έτος',
 	
 	'LBL_FIRST' => 'Πρώτη',
 	'LBL_LAST' => 'Δεύτερη',
