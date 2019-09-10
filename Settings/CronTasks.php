@@ -8,20 +8,20 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'CronTasks' => 'Scheduler',
+	'CronTasks' => 'Αυτόματες διεργασίες',
 
 	//Basic Field Names
-	'Id' => 'Id',
-	'Cron Job' => 'Cron Job',
-	'Frequency' => 'Frequency',
-	'Status' => 'Status',
-	'Last Start' => 'Last scan started',
-	'Last End' => 'Last scan ended',
-	'Sequence' => 'Sequence',
+	'Id' => 'Κωδ.',
+	'Cron Job' => 'Εργασία',
+	'Frequency' => 'Συχνότητα',
+	'Status' => 'Κατάσταση Αυ. Εργασίας',
+	'Last Start' => 'Τελευταία έναρξη',
+	'Last End' => 'Τελευταία λήξη',
+	'Sequence' => 'Σειρά',
 
 	//Actions
-	'LBL_COMPLETED' => 'Completed',
-	'LBL_RUNNING' => 'Running',
-	'LBL_ACTIVE' => 'Active',
-	'LBL_INACTIVE' => 'In Active',
+	'LBL_COMPLETED' => 'Ολοκληρώθηκε',
+	'LBL_RUNNING' => 'Εκτελείται',
+	'LBL_ACTIVE' => 'Ενεργή',
+	'LBL_INACTIVE' => 'Μη ενεργή',
 );

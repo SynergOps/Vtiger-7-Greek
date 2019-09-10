@@ -9,21 +9,21 @@
  * ***********************************************************************************/
 
 $languageStrings = Array(
-	'Home' => 'Home',
-	'More' => 'More',
-	'Profile' => 'Profile',
-	'Change Password' => 'Change Password',
-	'Logout' => 'Logout',
-	'Welcome to Portal' => 'Welcome to Portal',
-	'LBL_CREATE_TICKET' => 'New Ticket',
-	'LBL_OPEN_TICKETS' => 'View Open Tickets',
-	'LBL_ADD_DOCUMENT' => 'Upload a Document',
-	'What would you like to do ?' => 'What would you like to do?',
-	'_start for notify' => 'keys',
-	'Your support ends on' => 'Your support ends on',
-	'_start for charts' => 'keys',
-	'OpenTicketsByPriority' => 'Open Tickets By Priority',
-	'TicketsClosureTimeByPriority' => 'Tickets Closure Time By Priority',
-	'_start for widgets' => 'keys',
-	'Recent' => 'Recent'
+	'Home' => 'Αρχική',
+	'More' => 'Περισσότερα',
+	'Profile' => 'Προφίλ',
+	'Change Password' => 'Αλλαγή συνθηματικού',
+	'Logout' => 'Αποσύνδεση',
+	'Welcome to Portal' => 'Καλψσήρθατε στην Πύλη πελάτη',
+	'LBL_CREATE_TICKET' => 'Νέο αίτημα',
+	'LBL_OPEN_TICKETS' => 'Προβολή ανοιχτών αιτημάτων',
+	'LBL_ADD_DOCUMENT' => 'Μεταφόρτωση Αρχείου',
+	'What would you like to do ?' => 'Τι θα θέλατε?',
+	'_start for notify' => 'κλειδιά',
+	'Your support ends on' => 'Το συμβόλαιο υποστήριξης λείγει στις',
+	'_start for charts' => 'κλειδιά',
+	'OpenTicketsByPriority' => 'Ανοιχτά αιτήματα κατα Προτεραιότητα',
+	'TicketsClosureTimeByPriority' => 'Χρόνος κλεισήματος αιτημάτων κατα Προτεραιότητα',
+	'_start for widgets' => 'κλειδιά',
+	'Recent' => 'Πρόσφατα'
 );
