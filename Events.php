@@ -24,7 +24,7 @@ $languageStrings = array(
 	// Blocks
 	'LBL_EVENT_INFORMATION' => 'Πληροφορίες Συμβάντων',
 	'LBL_RECURRENCE_INFORMATION' => 'Λεπτομέρειες επανάληψης',
-	'LBL_RELATED_TO' => 'Σχετίζετε με',
+	'LBL_RELATED_TO' => 'Σχετίζεται με',
 	
 	//Fields
 	'Start Date & Time'=>'Ημ. Έναρξης',
@@ -37,7 +37,7 @@ $languageStrings = array(
 	'Activity Type'=>'Είδος Δραστηριότητας',
 	'Visibility' => 'Ορατότητα',
 	'Recurrence' => 'Επανάληψη',
-	'Related To' => 'Σχετίζετε με',
+	'Related To' => 'Σχετίζεται με',
 
 	//Visibility picklist values
 	'Private' => 'Ιδιωτικό',
