@@ -9,21 +9,21 @@
  *************************************************************************************/
 
 $languageStrings = array(
-    'LBL_SELECT_MARKETING_MODULES' => 'Select modules to show in Marketing app',
-    'LBL_SELECT_SALES_MODULES' => 'Select modules to show in Sales app',
-    'LBL_SELECT_INVENTORY_MODULES' => 'Select modules to show in Inventory app',
-    'LBL_SELECT_SUPPORT_MODULES' => 'Select modules to show in Support app',
-    'LBL_SELECT_PROJECT_MODULES' => 'Select modules to show in Project app',
-    'LBL_SELECT_HIDDEN_MODULE' => 'Select Hidden Module',
-    'LBL_INFO' => 'info',
-    'LBL_MENU_EDITOR_INFO' => 'Drag and drop a Module to move/re-order it. You can Remove a Module from the App and Add it back later.',
+    'LBL_SELECT_MARKETING_MODULES' => 'Επιλέξτε ενότητες που θα εμφανίζονται στην εφαρμογή Μάρκετινγκ',
+    'LBL_SELECT_SALES_MODULES' => 'Επιλέξτε ενότητες που θα εμφανίζονται στην εφαρμογή Πωλήσεις',
+    'LBL_SELECT_INVENTORY_MODULES' => 'Επιλέξτε ενότητες που θα εμφανίζονται στην εφαρμογή Αποθήκη',
+    'LBL_SELECT_SUPPORT_MODULES' => 'Επιλέξτε ενότητες που θα εμφανίζονται στην εφαρμογή Υποστήριξη',
+    'LBL_SELECT_PROJECT_MODULES' => 'Επιλέξτε ενότητες που θα εμφανίζονται στην εφαρμογή Έργα',
+    'LBL_SELECT_HIDDEN_MODULE' => 'Επιλέξτε κρυμμένη ενότητα',
+    'LBL_INFO' => 'πληροφορίες',
+    'LBL_MENU_EDITOR_INFO' => 'Σύρετε και αποθέστε μια Ενότητα για να την μετακινήσετε ή να επαναδιατάξετε. Μπορείτε να αφαιρέσετε μια ενότητα από την εφαρμογή και να την προσθέσετε αργότερα.',
 );
 
 $jsLanguageStrings = Array (
-    'JS_MODULE_NOT_DRAGGABLE' => 'Module Cannot be moved',
-    'JS_MODULE_SEQUENCE_SAVED' => 'Module sequence saved successfully',
-    'JS_MODULE_REMOVED' => 'Module removed successfully',
-    'JS_MODULE_ADD_SUCCESS' => 'Module(s) added successfuly',
-    'JS_PLEASE_SELECT_A_MODULE' => 'Please select a Module',
+    'JS_MODULE_NOT_DRAGGABLE' => 'Η ενότητα δεν μπορεί να μετακινηθεί',
+    'JS_MODULE_SEQUENCE_SAVED' => 'Η αλληλουχία ενοτήτων αποθηκεύτηκε με επιτυχία',
+    'JS_MODULE_REMOVED' => 'Η ενότητα καταργήθηκε με επιτυχία',
+    'JS_MODULE_ADD_SUCCESS' => 'Η ενότητες προστέθηκαν με επιτυχία',
+    'JS_PLEASE_SELECT_A_MODULE' => 'Επιλέξτε μια ενότητα',
 )
 ?>
