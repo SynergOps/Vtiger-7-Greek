@@ -711,7 +711,7 @@ $languageStrings = array(
 	'Product Name' => 'Όνομα Προϊόντος',
 	'Rating' => 'Κατάταξη',
 
-	'Related To' => 'Σχετίζετε με',
+	'Related To' => 'Σχετίζεται με',
 	'Type' => 'Τύπος',
 
 	'Reviewed'=>'Ελέγχθηκε',
