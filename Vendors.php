@@ -23,7 +23,7 @@ $languageStrings = array(
 	'Vendor No' => 'Αρ. Προμηθευτή',
 	'Website' => 'Ιστοσελίδα',
 	'GL Account' => 'Λογαριασμός Γεν. Λογιστικής',
-	'Phone' => 'Κυρίως Τηλέφωνο',
+	'Phone' => 'Σταθερό Τηλέφωνο',
 	'Email' => 'Κύριο Email',
 
 	//Added for existing Picklist entries

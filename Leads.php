@@ -25,7 +25,7 @@ $languageStrings = array(
 	'Industry' => 'Βιομηχανία',
 	'Lead Status' => 'Κατάσταση δυνητικού',
 	'No Of Employees' => 'Αριθμός υπαλλήλων',
-	'Phone' => 'Κυρίως τηλέφωνο',
+	'Phone' => 'Σταθερό τηλέφωνο',
 	'Secondary Email' => 'Δευτερεύον Email',
 	'Email' => 'Πρωτεύον Email',
 
