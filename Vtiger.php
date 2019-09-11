@@ -11,7 +11,7 @@ $languageStrings = array(
 
 	// Footer
 	'APPTITLE' => 'vtiger CRM',
-	'POWEREDBY'=> 'Βασισμένο  vtiger CRM',
+	'POWEREDBY'=> 'Βασισμένο στο vtiger CRM',
 	'LBL_READ_LICENSE' => 'Άδεια Χρήσης',
 	'LBL_PRIVACY_POLICY' => 'Πολιτική Απορρήτου',
 
@@ -86,7 +86,7 @@ $languageStrings = array(
 	'LBL_CONTACT' => 'ΔΙΑΧΕΙΡΙΣΗ ΕΠΙΚΟΙΝΩΝΙΑΣ',
 	'LBL_HOME' => 'Αρχική',
 	'LBL_NO_ATTACHMENTS' => 'Δεν υπάρχουν συνημμένα',
-	'LBL_COMPOSE_EMAIL_WARNING' => ' Warning : Your email might land in spam. Add Vtiger as an authorized sender for your domain. Learn more',
+	'LBL_COMPOSE_EMAIL_WARNING' => ' Προειδοποίηση: Το email σας ενδέχεται να καταλήξει στα ανεπιθύμητα του παραλήπτη. Προσθέστε το Vtiger ως εξουσιοδοτημένο αποστολέα για τον τομέα σας. Μάθε περισσότερα',
 	// Common Link Labels
 	'LBL_REARRANGE_DASHBOARD_TABS' => 'Αναδιάταξη καρτελών',
 	'LBL_DONE' => 'Εγινε',
@@ -184,7 +184,7 @@ $languageStrings = array(
 	'LBL_REPLY_ALL' => 'Απάντηση σε όλα',
 
 	//Translation for all modules
-	'Accounts' => 'Οργανισμοί',
+	'Accounts' => 'Εταιρείες',
 	'Assets' => 'Περιουσιακά Στοιχεία',
 	'Calendar' => 'Ημερολόγιο',
 	'Campaigns' => 'Καμπάνιες',
@@ -218,7 +218,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => 'Λίστα Εγγραφών',
 	'LBL_RECORD_SUMMARY' => 'Σύνοψη Ενότητας',
 	'LBL_RECORD_SUMMARY' => 'Λεπτομέρειες Ενότητας',
-	'LBL_ACCESS_DENIED_FOR' => 'Η Πρόσβαση απαγορεύεται για',
+	'LBL_ACCESS_DENIED_FOR' => 'Απαγορεύεται η πρόσβαση για',
 	'LBL_GO_BACK' => 'Πίσω',
 	'LBL_NO_DATA_AVAILABLE' => 'Δεν υπάρχουν διαθέσιμα δεδομένα',
 
@@ -522,19 +522,19 @@ $languageStrings = array(
 	'LBL_CAN_NOT_REMOVE_DEFAULT_WIDGET' => 'Το προεπιλεγμένο widget δεν αφαιρείται',
 	'LBL_CUSTOM_VIEW_NAME_DUPLICATES_EXIST' => 'Αυτό το φίλτρο υπάρχει ήδη',
 	'LBL_TYPE_AND_SEARCH' => 'Πληκτρολόγηση και αναζήτηση',
-		'LBL_EXPORT_CURRENCY_TOOLTIP_TEXT'=>'For exporting Currency values in Line items, Vtiger will use this setting to export as this currency. Any currency values outside the line items tables, will be exported as in User\'s preferred currency (selected in \'My Preferences\')',
-		'LBL_EXPORT_LINEITEM_CURRENCY'=>'Choose Currency (For Line Item Values)',
+		'LBL_EXPORT_CURRENCY_TOOLTIP_TEXT' => 'Για την εξαγωγή τιμών συναλλάγματος στα στοιχεία γραμμής, το Vtiger θα χρησιμοποιήσει αυτήν τη ρύθμιση για εξαγωγή ως αυτό το συνάλλαγμα. Οποιεσδήποτε τιμές συναλλάγματος εκτός των στοιχείων γραμμής πινάκων, θα εξάγονται όπως με βάση το προτιμώμενο συνάλλαγμα του χρήστη (Οι προτιμήσεις μου)',
+		'LBL_EXPORT_LINEITEM_CURRENCY'=>'Επιλέξτε συνάλλαγμα (για τιμές στοιχείων γραμμής)',
 		'LBL_EXPORT_USER_CURRENCY' =>'Το προτιμώμενο νόμισμά μου',
 		'LBL_EXPORT_RECORD_CURRENCY'=>'Νόμισμα που καθορίζεται στην εγγραφή',
 	'LBL_EXPORT_FORMAT' => 'Μορφή Εξαγωγής',
 	'LBL_EXPORT_DATA' => 'Εξαγωγή Δεδομένων',
 
 	'LBL_CUSTOMIZE' => 'Προσαρμογή',
-	'LBL_ADD_MANAGE_MODULES' => 'Modules',
-	'LBL_CUSTOMIZE_MAIN_MENU' => 'Αριστερά Μενού',
-	'LBL_LABELS' => 'Labels',
-	'LBL_WORKFLOWS' => 'Workflows',
-	'LBL_PICKLIST' => 'Picklists',
+	'LBL_ADD_MANAGE_MODULES' => 'Ενότητες',
+	'LBL_CUSTOMIZE_MAIN_MENU' => 'Αριστερό Μενού',
+	'LBL_LABELS' => 'Όνομα πεδίων',
+	'LBL_WORKFLOWS' => 'Ροές διεργασιών',
+	'LBL_PICKLIST' => 'Λίστε επιλογών',
 
 	// Added Common Keys for all modules
 	'Account Name' => 'Όνομα Εταιρείας',
@@ -699,7 +699,7 @@ $languageStrings = array(
 
 	'Notify Owner' => 'Ειδοποίηση κατόχου',
 	'Other Phone' => 'Δευτερεύον Τηλ',
-	'Phone' => 'Πρωτεύον Τηλέφωνο',
+	'Phone' => 'Σταθερό Τηλέφωνο',
 
 	'State' => 'Νομός',
 	'Po Box' => 'Τ.Θ.',
@@ -802,7 +802,7 @@ $languageStrings = array(
 	'LBL_EXCEEDED' => 'Υπερβαίνει',
 	'LBL_OPERATION_NOT_PERMITTED' => 'Η ενέργεια δεν Επιτρέπεται',
 	'LBL_MERGE' => 'Συγχώνευση',
-	'LBL_FIND_DUPLICATES' => 'Find Duplicates',
+	'LBL_FIND_DUPLICATES' => 'Βρείτε διπλότυπα',
 	'LBL_MERGING_CRITERIA_SELECTION' => 'Επιλογή Κριτηρίων Συγχώνευσης',
 	'LBL_AVAILABLE_FIELDS' => 'Διαθέσιμα Πεδία',
 	'LBL_MERGE_RECORDS_DESCRIPTION' => 'Η κύρια εγγραφή θα διατηρηθεί μετά τη συγχώνευση. Μπορείτε να επιλέξετε τη στήλη για να διατηρήσουν τις τιμές.
@@ -818,7 +818,7 @@ $languageStrings = array(
 
 	//Translations used for Export to Pdf
 	'Valid Date' => 'Έγκυρη Ημερομηνία',
-	'Phone: ' => 'Τηλ: ',
+	'Phone: ' => 'Σταθερό Τηλ: ',
 	'Issued Date' => 'Ημερομηνία Έκδοσης',
 	'Shipping & Handling Charges' => 'Χρεώσεις Ταχυδρόμησης',
 	'Shipping & Handling Tax:' => 'Φόρος Ταχυδρόμησης:',
@@ -838,14 +838,14 @@ $languageStrings = array(
 	//Realted tab strings
 	'Service Contracts' => 'Συμβόλαια Υπηρεσιών',
 	'Projects' => 'Έργα',
-	'Sales Order' => 'Εντολή Πώλησης',
+	'Sales Order' => 'Παραγγελεία Πώλησης',
 	'Purchase Order' => 'Εντολή Αγοράς',
 	'Payments' => 'Πληρωμές',
 	'List and Campaigns' => 'Λίστα και Καμπάνιες',
 	'Project Tasks' => 'Εργασίες του Έργου',
 	'Project Milestones' => 'Ορόσημα Έργου',
 
-	'Labels Editor' => 'Labels Editor',
+	'Labels Editor' => 'Επεξερ. ονομάτων Πεδίων',
 	'LBL_IGNORE_EMPTY_VALUES' =>'Παράβλεψη κενών τιμών',
 
 	//Related tabs of Products
@@ -903,7 +903,7 @@ $languageStrings = array(
 	// SMSNotifier Phone Format Warning
 	'LBL_PHONE_FORMAT_WARNING' => 'Βεβαιωθείτε ότι ο αριθμός τηλεφώνου ακολουθεί την διεθνή μορφή E.164',
 	'LBL_PHONEFORMAT_WARNING_CONTENT' => 'Η μορφοποίηση αριθμού E.164 μπορεί να έχει δεκαπέντε ψηφία και συνήθως γράφεται ως εξής: [+] [κωδικός χώρας] [αριθμός συνδρομητή, συμπεριλαμβανομένου του κωδικού περιοχής]
-										 For example, to convert a US phone number (415 599 2671) to E.164 format, one would need to add the \'+\' prefix and the country code (which is 1) in front of the number (+1 415 599 2671). In the UK and many other countries internationally, local dialing requires the addition of a 0 in front of the subscriber number. However, to use E.164 formatting, this 0 must be removed. A number such as 020 7183 8750 in the UK would be formatted as +44 20 7183 8750.',
+										 Για παράδειγμα, για να μετατρέψετε τον αριθμό τηλεφώνου των ΗΠΑ (415 599 2671) σε μορφή E.164, θα χρειαστεί να προσθέσετε το πρόθεμα \'+\' και τον κωδικό χώρας (που είναι 1) μπροστά από τον αριθμό (+1 415 599 2671). Στο Ηνωμένο Βασίλειο και σε πολλές άλλες χώρες διεθνώς, η τοπική κλήση απαιτεί την προσθήκη ενός αριθμού 0 μπροστά από τον αριθμό συνδρομητή. Ωστόσο, για να χρησιμοποιηθεί η μορφοποίηση του E.164, αυτό το 0 πρέπει να αφαιρεθεί. Ένας αριθμός όπως το 020 7183 8750 στο Ηνωμένο Βασίλειο θα διαμορφωθεί ως +44 20 7183 8750.',
 	'LBL_WARNING' => 'Προειδοποίηση',
 	'LBL_ORIGIN' => 'Προέλευση',
 	'SENT' => 'Απεσταλμένα',
@@ -958,31 +958,31 @@ $languageStrings = array(
 	'LBL_PREF_RESET_MESSAGE' => 'Οι προτιμήσεις email παραλήπτη έχουν επαναφερθεί!',
 
 	'LBL_COMPANY_DETAILS' => 'Στοιχεία Εταιρείας',
-	'COMPANY_LOGO_HELP_TEXT' => 'Please upload your lovely company logo. <br>Besides showing your company logo on your CRM,<br>
-									your company name and address details are used in <br>Email Campaigns (required to meet span regulations)<br>
-									and in Quotes.',
-	'COMPANY_LOGO_HELP_TEXT_2' =>"You can edit company details later from <br>
-									'CRM Settings > Templates > Company Details' page",
-	'LBL_CHOOSE_PREFERENCES' => 'Choose your Preferences',
-	'PREFERENCES_HELP_TEXT' => 'Base Currency - Choose your primary currency. If you use multiple<br> 
-								currencies, all the values are converted to base currency and stored,<br>
-								using the conversion rate configured in CRM.',
-	'PREFERENCES_HELP_TEXT_2' => 'Personal preferences can be configured by each user in your team.<br>
-									These include Timezone, Language, Date Format, Number Format.<br>
-									Number Format references are used for Currencies and other <br>
-									number fields in the CRM<br>
-									You can edit your preferences later from \'User Name > My Preferences \'',
-	'LBL_CANNOT_BE_CHANGED_LATER' => 'Cannot be changed later',
-	'IMPORT_CONTACTS_GOOGLE_HELP_TEXT' => 'We can bring contacts from Google and <br> you can also enable bi-direction sync to keep our<br>
-									Vtiger contacts and Google contacts(in selected group) updated.<br>
-									Click the button to authorize and get Contacts from Google.',
-	'IMPORT_CONTACTS_CSV_HELP_TEXT' => 'You can import Contacts from CSV file.',
-	'IMPORT_CONTACTS_CSV_HELP_TEXT2' => 'To Import Opportunities, Leads, Tickets, please look for Actions > Import button on any of the
-										 list views.',
-	'LBL_DOEST_FIRST_ROW_HEADER' => 'Does first row in your file contains column headers?',
-	'LBL_SELECT_CSV_FILE' => 'Select CSV file',
-	'LBL_START_IMPORTING' => 'Start Importing',
-	'LBL_PRIMARY' => 'Primary',
+	'COMPANY_LOGO_HELP_TEXT' => 'Μεταφορτώστε το όμορφο λογότυπο της εταιρείας σας. <br>Εκτός από την εμφάνιση του λογότυπου της εταιρείας σας στο CRM σας,<br>
+									το όνομα της εταιρείας σας και τα στοιχεία διευθύνσεών σας χρησιμοποιούνται στις καμπάνιες μέσω <br>Email (απαιτούνται για την τήρηση των κανονισμών)<br>
+									και σε προσφορές.',
+	'COMPANY_LOGO_HELP_TEXT_2' =>"Μπορείτε να επεξεργαστείτε τα στοιχεία της εταιρείας αργότερα από τις <br>
+									'Ρυθμίσεις CRM > Πρότυπα > Λεπτομέρειες Εταιρείας'",
+	'LBL_CHOOSE_PREFERENCES' => 'Επιλέξτε τις Προτιμήσεις σας',
+	'PREFERENCES_HELP_TEXT' => 'Βασικό Συνάλλαγμα - Επιλέξτε το πρωτεύον συνάλλαγμα σας. Εάν χρησιμοποιείτε πολλαπλά<br> 
+								συναλλάγματα, όλες οι τιμές μετατρέπονται στο βασικό συνάλλαγμα και αποθηκεύονται,<br>
+								χρησιμοποιώντας την συναλλαγματική διαφορά που διαμορφώνεται στο CRM.',
+	'PREFERENCES_HELP_TEXT_2' => 'Οι προσωπικές προτιμήσεις μπορούν να ρυθμιστούν από κάθε χρήστη στην ομάδα σας.<br>
+									Αυτές περιλαμβάνουν τη ζώνη ώρας, τη γλώσσα, τη μορφή ημερομηνίας, τη μορφή αριθμών.<br>
+									Οι μορφές αριθμών χρησιμοποιούνται για συναλλάγματα και άλλα <br>
+									πεδία αριθμό στο CRM<br>
+									Μπορείτε να επεξεργαστείτε τις προτιμήσεις σας αργότερα από \'Όνομα Χρήστη > Οι προτιμήσεις μου \'',
+	'LBL_CANNOT_BE_CHANGED_LATER' => 'Δεν μπορεί να αλλάξει αργότερα',
+	'IMPORT_CONTACTS_GOOGLE_HELP_TEXT' => 'Μπορούμε να εισάγουμε επαφές από την Google και <br> μπορείτε επίσης να ενεργοποιήσετε τον συγχρονισμό για να διατηρήσετε τις<br>
+									επαφές Vtiger και Google (στην επιλεγμένη ομάδα) ενημερωμένες.<br>
+									Κάντε κλικ στο κουμπί για να εξουσιοδοτήσετε και να λάβετε τις Επαφές από την Google.',
+	'IMPORT_CONTACTS_CSV_HELP_TEXT' => 'Μπορείτε να εισαγάγετε επαφές από αρχείο CSV.',
+	'IMPORT_CONTACTS_CSV_HELP_TEXT2' => 'Για να εισαγάγετε Ευκαιρίες, Δυνητικούς, Αιτήματα, αναζητήστε για Ενέργειες > κουμπί Εισαγωγής σε οποιοδήποτε από τις
+										 προβολές λίστας.',
+	'LBL_DOEST_FIRST_ROW_HEADER' => 'Η πρώτη γραμμή στο αρχείο σας περιέχει κεφαλίδες στηλών;',
+	'LBL_SELECT_CSV_FILE' => 'Επιλέξτε αρχείο CSV',
+	'LBL_START_IMPORTING' => 'Ξεκινήστε την εισαγωγή',
+	'LBL_PRIMARY' => 'Πρωτεύον',
 	'LBL_GOOGLE_SYNC_INTIATED_MSG' => 'Your import is scheduled, Your contacts will be imported shortly.<br> Proceeding to Next step will not interrupt the import.',
 	'LBL_IMPORT_SYNC_INTIATED_MSG' => 'Your import is in progress. You will receive an email when import is completed.<br> Proceeding to Next step will not interrupt the import.',
 	'LBL_TELL_US_ABOUT_YOU' => 'Help us by telling us about your Company',
