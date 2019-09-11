@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	'MailConverter' => 'Μετατροπέας Email',
-	'MailConverter_Description' => 'Μετατρέψει τα email με τις αντίστοιχες εγγραφές',
+	'MailConverter_Description' => 'Μετατρέπει τα email σε αντίστοιχες εγγραφές',
 	'MAILBOX' => 'Γραμματοκιβώτιο',
 	'RULE' => 'Κανόνας',
 	'LBL_ADD_RECORD' => 'Προσθήκη Γραμματοκιβωτίου',
@@ -184,7 +184,7 @@ $languageStrings = array(
     'LBL_MAP_TO_CRM_FIELDS' => 'Διασύνδεση τιμών σε πεδία CRM',
     'SELECT_FIELD' => 'Επιλογή Πεδίου',
     'LBL_SAVE_MAPPING_INFO' => 'Η αποθήκευση κανόνα σώματος για έναν υπάρχοντα κανόνα του μετατροπέα email θα αντικαταστήσει τον υπάρχοντα κανόνα σώματος για εκείνον τον κανόνα.',
-    'LBL_MULTIPLE_FIELDS_MAPPED' => 'Cannot map one CRM field with multiple fields',
+    'LBL_MULTIPLE_FIELDS_MAPPED' => 'Δεν είναι δυνατή η διασύνδεση ενός πεδίου CRM με πολλά πεδία',
     'LBL_BODY_RULE' => 'Ορίστηκε κανόνας σώματος',
     
     'LBL_MAIL_SCANNER_INACTIVE' => 'Αυτό το γραμματοκιβώτιο βρίσκεται σε ανενεργή κατάσταση',
