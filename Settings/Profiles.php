@@ -44,8 +44,8 @@ $languageStrings = array(
 	'LBL_DUPLICATES_EXIST' => 'Υπάρχει ήδη προφίλ με το όνομα αυτό',
 
 	/*Vtiger7 Strings*/
-	'LBL_EDIT_PROFILE' => 'Edit Profile',
-	'LBL_GLOBAL_PERMISSION_WARNING' => 'Warning : Users associated with this profile can access all records in the CRM',
+	'LBL_EDIT_PROFILE' => 'Επεξεργασία προφίλ',
+	'LBL_GLOBAL_PERMISSION_WARNING' => 'Προειδοποίηση: Οι χρήστες που συσχετίζονται με αυτό το προφίλ μπορούν να έχουν πρόσβαση σε όλες τις εγγραφές στο CRM',
 );
 
 $jsLanguageStrings = array(
