@@ -27,7 +27,7 @@ $languageStrings = array(
 	'LBL_CUSTOM_ACCESS_MESG' => 'Δεν έχει οριστεί κανένας προσαρμοσμένος κανόνας',
 	'SINGLE_Groups' => 'Ομάδα',
 	'SINGLE_Roles' => 'Ρόλος',
-	'SINGLE_RoleAndSubordinates' => 'Ρόλοι και Δευτερεύοντες',
+	'SINGLE_RoleAndSubordinates' => 'Ρόλοι και υπο-ρόλοι',
 );
 
 $jsLanguageStrings = array(
