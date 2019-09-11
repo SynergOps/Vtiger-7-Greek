@@ -20,7 +20,7 @@ $languageStrings = array(
 	'LBL_CHOOSE_PROFILES' => 'Επιλέξτε Προφίλ',
 	'LBL_COPY_PRIVILEGES_FROM' => 'Αντιγραφή δικαιωμάτων από',
 
-    'LBL_TRANSFER_TO_OTHER_ROLE' =>'Transfer ownership to other role',
+    'LBL_TRANSFER_TO_OTHER_ROLE' =>'Μεταφορά Κυριότητας σε άλλο ρόλο',
 	
 	//Edit View
 	'LBL_PROFILE' => 'Προφίλ',
