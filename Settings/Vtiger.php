@@ -14,7 +14,7 @@ $languageStrings = array(
 	'LBL_SEARCH_SETTINGS_PLACEHOLDER' => 'Αναζήτηση στις Ρυθμίσεις',
 	'LBL_SUMMARY' => 'Σύνοψη',
 	'LBL_ACTIVE_USERS' => 'Χρήστες',
-	'LBL_WORKFLOWS_ACTIVE' => 'Ροές Εργασιών',
+	'LBL_WORKFLOWS_ACTIVE' => 'Ροές Διεργασιών',
 	'LBL_MODULES' => 'Ενότητες',
 	'LBL_SETTINGS_SHORTCUTS' => 'Συντομεύσεις Ρυθμίσεων',
 	'LBL_UNPIN' => 'Ξεκαρφίτσωμα',
@@ -33,7 +33,7 @@ $languageStrings = array(
 	'LBL_EXTENSIONS' => 'Επεκτάσεις',
 
 	'LBL_PBXMANAGER' => 'PBXManager',
-    'LBL_INTEGRATION' => 'Integration',
+    'LBL_INTEGRATION' => 'Ενσωμάτωση',
     'LBL_EXCHANGE_CONNECTOR' => 'Διασύνδεση με Exchange',
     
     // Fields
@@ -50,11 +50,11 @@ $languageStrings = array(
 	'USERGROUPLIST' => 'Ομάδες',
 	'LBL_GROUP_DESCRIPTION' => 'Διαχείριση τύπων ομάδων βασισμένων ανά ρόλο, χρήστες και προφίλ',
 
-	'LBL_SHARING_ACCESS' => 'Κανόνες Διαμερισμού',
+	'LBL_SHARING_ACCESS' => 'Κανόνες Διαμοιρασμού',
 	'LBL_SHARING_ACCESS_DESCRIPTION' => 'Διαχείριση κανόνων προσαρμοσμένου διαμοιρασμού και κανόνων διαμοιρασμού ενοτήτων',
 
-	'LBL_WORKFLOW_LIST' => 'Λίστα Ροής Εργασιών',
-	'LBL_AVAILABLE_WORKLIST_LIST' => 'Διαθέσιμες Ροές Εργασιών',
+	'LBL_WORKFLOW_LIST' => 'Λίστα Ροής Διεργασιών',
+	'LBL_AVAILABLE_WORKLIST_LIST' => 'Διαθέσιμες Ροές Διεργασιών',
 	'LBL_FIELDFORMULAS' => 'Φόρμουλες Πεδίων',
 	'LBL_FIELDFORMULAS_DESCRIPTION' => 'Προσθήκη προσαρμοσμένων εξισώσεων στα προσαρμοσμένα πεδία',
 
@@ -101,7 +101,7 @@ $languageStrings = array(
 	'LBL_MAIL_SCANNER' => 'Μετατροπέας Email',
 	'LBL_MAIL_SCANNER_DESCRIPTION' => 'Προσαρμογή Εισερχομένων email προς σάρωση και επισυναπτόμενων εγγραφών',
 
-	'LBL_LIST_WORKFLOWS' => 'Ροές Εργασιών',
+	'LBL_LIST_WORKFLOWS' => 'Ροές Διεργασιών',
 	'LBL_LIST_WORKFLOWS_DESCRIPTION' => 'Δημιουργία και Επεξεργασία Ροής Εργασίας',
     'LBL_SELECT_DATE' => 'Επιλογή Ημερομηνιών',
 
@@ -109,8 +109,8 @@ $languageStrings = array(
 	'LBL_CONFIG_EDITOR_DESCRIPTION' => 'Ενημέρωση αρχείου ρυθμίσεων της εφαρμογής',
 	'Update configuration file of the application' => 'Ενημέρωση αρχείου ρυθμίσεων της εφαρμογής',
 	'LBL_PERSONAL_EMAIL_TRACKING_INFO' => 'Για να παρακολουθήσετε το άνοιγμα των άμεσων email που αποστέλλονται στις επαφές, ενεργοποιήστε αυτό το πλαίσιο ελέγχου. Λάβετε υπόψη ότι τα email που αποστέλλονται από την ενότητα "Καμπάνιες ηλεκτρονικού ταχυδρομείου" παρακολουθούνται πάντα και δεν επηρεάζονται από αυτήν τη ρύθμιση',
-	'LBL_CUSTOMER_PORTAL' => 'Διαδικτυακή Πύλη Πελατών',
-	'PORTAL_EXTENSION_DESCRIPTION' => 'Σας Επιτρέπει την Διαμόρφωση της επέκτασης: Διαδικτυακή Πύλη Χρηστών',
+	'LBL_CUSTOMER_PORTAL' => 'Δικτυακή Πύλη Πελατών',
+	'PORTAL_EXTENSION_DESCRIPTION' => 'Σας Επιτρέπει την Διαμόρφωση της επέκτασης: Δικτυακή Πύλη Χρηστών',
 	
 	'LBL_LAYOUT_EDITOR_DESCRIPTION' => 'Σχεδιασμός και Τροποποίηση Εμφάνισης της κάθε ενότητας',
 	'LBL_WEBFORMS_DESCRIPTION' => 'Δημιουργία και διαχείριση δικτυακής φόρμας που μπορεί να συλλέξει Δυνητικούς, Επαφές, Αιτήματα κλπ',
@@ -120,9 +120,9 @@ $languageStrings = array(
 	'LBL_ADD_USER' => 'Προσθήκη Χρήστη',
 	
 'LBL_LABELS_EDITOR' => 'Επεξεργαστής Ονομάτων Πεδίων',
-	'LBL_LABELS_EDITOR_DESCRIPTION' => 'Lets you customize module names, field labels and other strings according to your business requirements',
+	'LBL_LABELS_EDITOR_DESCRIPTION' => 'Σας επιτρέπει να προσαρμόσετε τα ονόματα των ενοτήτων, τα ονόματα πεδίων και άλλες συμβολοσειρές σύμφωνα με τις απαιτήσεις της επιχείρησής σας',
 
-	'Scheduler' => 'Scheduler',
+	'Scheduler' => 'Προγραμματισμός Διεργασιών',
 	'Allows you to Configure Cron Task' => 'Σας επιτρέπει να ρυθμίσετε τις παραμέτρους του Cron Task',
 
 	'Webforms' => 'Δικτυακές Φόρμες',
@@ -354,7 +354,7 @@ $languageStrings = array(
     
     'LBL_MODULE_BUILDER_DESCRIPTION' => 'Δημιουργία νέας ενότητας (module)',
     
-	'LBL_EXTENSION_STORE' => 'Extension Store',
+	'LBL_EXTENSION_STORE' => 'Κατάστημα Επεκτάσεων',
     'LBL_GATEWAY_CONFIGURATION' => 'Διαμόρφωση της πύλης πληρωμών',
     'MAIN_PRODUCT_WHITELABEL' => 'CRM white labeling',
     'LBL_WHITE_LABELING_INFO' => 'Η ενεργοποίηση αυτής, θα καταργήσει το εικονίδιο feedback, συνδέσμους βίντεο, τα βίντεο νέων δυνατοτήτων και το υποσέλιδο από το CRM.',
