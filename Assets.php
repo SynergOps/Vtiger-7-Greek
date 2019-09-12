@@ -9,28 +9,28 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Assets'        => 'Assets',
-	'SINGLE_Assets' => 'Asset',
-	'LBL_ADD_RECORD' => 'Add Asset',
-	'LBL_RECORDS_LIST' => 'Assets List',
+	'Assets'        => 'Περιουσιακά Στοιχεία',
+	'SINGLE_Assets' => 'Περιουσιακό Στοιχεία',
+	'LBL_ADD_RECORD' => 'Προσθήκη Περ. Στοιχ.',
+	'LBL_RECORDS_LIST' => 'Λίστα Περ. Στοιχ.',
 
 	// Blocks
-	'LBL_ASSET_INFORMATION' => 'Asset Details',
+	'LBL_ASSET_INFORMATION' => 'Λεπτομέρειες Περ. Στοιχ.',
 
 	//Field Labels
-    'Asset No' => 'Asset No',
-	'Serial Number' => 'Serial Number',
-	'Date Sold' => 'Date Sold',
-	'Date in Service' => 'Date in Service',
-	'Tag Number' => 'Tag Number',
-	'Invoice Name' => 'Invoice Name',
-	'Shipping Method' => 'Shipping Method',
-	'Shipping Tracking Number' => 'Shipping Tracking Number',
-	'Asset Name' => 'Asset Name',
-	'Customer Name' => 'Customer Name',
-	'Notes' => 'Notes',
+    'Asset No' => 'Αρ. Περ. Στοιχ.',
+	'Serial Number' => 'Σειριακός αριθμός',
+	'Date Sold' => 'Ημερομηνία Πώλησης',
+	'Date in Service' => 'Ημερομηνία σε Υπηρεσία',
+	'Tag Number' => 'Αριθμός ετικέτας',
+	'Invoice Name' => 'Όνομα Τιμολογίου',
+	'Shipping Method' => 'Τρόπος Αποστολής',
+	'Shipping Tracking Number' => 'Αρ. Παρακολούθησης Αποστολής',
+	'Asset Name' => 'Όνομα Περ. Στοιχ.',
+	'Customer Name' => 'Όνομα Πελάτη',
+	'Notes' => 'Σημειώσεις',
 
 	/*picklist values*/
-	'In Service'=>'In Service',
-	'Out-of-service'=>'Out-of-service',
+	'In Service'=>'Σε Υπηρεσία',
+	'Out-of-service'=>'Εκτός Υπηρεσίας',
 );

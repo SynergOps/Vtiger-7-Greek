@@ -9,17 +9,17 @@
  * All Rights Reserved.
  * *********************************************************************************** */
 $languageStrings = array(
-    'LBL_SELECT_ONE' => 'Select',
+    'LBL_SELECT_ONE' => 'Επιλογή',
     'LBL_PBXMANAGER' =>'PBXManager',
-    'LBL_PBXMANAGER_CONFIG' => 'Asterisk Server Details',
-    'LBL_NOTE' => 'Note:',
-    'LBL_INFO_WEBAPP_URL' => 'Configure your Asterisk App URL in the  format', 
+    'LBL_PBXMANAGER_CONFIG' => 'Λεπτομέρειες διακομιστή Asterisk',
+    'LBL_NOTE' => 'Σημείωση:',
+    'LBL_INFO_WEBAPP_URL' => 'Διαμορφώστε τη διεύθυνση URL της εφαρμογής Asterisk στη μορφή', 
     'LBL_FORMAT_WEBAPP_URL' => '(protocol)://(asterisk_ip):(VtigerConnector_port)',
-    'LBL_FORMAT_INFO_WEBAPP_URL' => 'ex:http://0.0.0.0:5000',
+    'LBL_FORMAT_INFO_WEBAPP_URL' => 'παράδειγμα: http://0.0.0.0:5000',
     'LBL_INFO_CONTEXT' => 'Vtiger Spezifischer Kontext in Ihrer Asterisk-Server konfiguriert (extensions.conf)',
-    'LBL_PBXMANAGER_INFO' => 'Configure Asterisk Server Details after Installing Vtiger Asterisk Connector in your Asterisk Server',
+    'LBL_PBXMANAGER_INFO' => 'Ρυθμίστε τις παραμέτρους του διακομιστή Asterisk αφού κάνετε εγκατάσταση του Asterisk Vtiger Connector μέσα στο διακομιστή Asterisk',
     
-    'webappurl'=>'Vtiger Asterisk App URL',
+    'webappurl'=>'URL εφαρμογής Vtiger Asterisk',
     'vtigersecretkey'=>'Vtiger Secret Key',
     'outboundcontext' => 'Outbound Context',
     'outboundtrunk' => 'Outbound Trunk',

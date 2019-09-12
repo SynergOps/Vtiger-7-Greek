@@ -8,19 +8,19 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'isactive' => 'Active',
-	'LBL_ADD_CONFIGURATION' => 'New Configuration',
-	'LBL_ADD_RECORD' => 'New Configuration',
-	'LBL_EDIT_CONFIGURATION' => 'Edit Configuration',
-	'LBL_SELECT_ONE' => 'Select One',
-	'password' => 'Password',
-	'providertype' => 'Provider',
-	'SMSNotifier' => 'SMS Provider Configuration',
-	'username' => 'User Name',
+	'isactive' => 'Ενεργό',
+	'LBL_ADD_CONFIGURATION' => 'Νέα Διαμόρφωση',
+	'LBL_ADD_RECORD' => 'Νέα Διαμόρφωση',
+	'LBL_EDIT_CONFIGURATION' => 'Επεξεργασία Διαμόρφωσης',
+	'LBL_SELECT_ONE' => 'Επιλογή Ενός',
+	'password' => 'Συνθηματικό',
+	'providertype' => 'Πάροχος',
+	'SMSNotifier' => 'Διαμόρφωση Παρόχου SMS',
+	'username' => 'Όνομα Χρήστη',
 );
 
 $jsLanguageStrings = array(
-	'JS_CONFIGURATION_SAVED' => 'SMS Provider Configurations saved',
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'SMS Provider Deleted Successfully',
-	'LBL_DELETE_CONFIRMATION' => 'Are you sure, you want to delete this SMSNotifier Configuration?',
+	'JS_CONFIGURATION_SAVED' => 'Η Διαμόρφωση του Παρόχου SMS αποθηκεύτηκε',
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Ο Πάροχος SMS διαγράφτηκε επιτυχώς',
+	'LBL_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την Διαμόρφωση του Ειδοποιήσεων SMS',
 );	
