@@ -1861,7 +1861,7 @@ $jsLanguageStrings = array(
 	'JS_LIST_SAVED' => 'Η λίστα αποθηκεύτηκε',
 	'JS_TAB_DELETED' => 'διεγράφη',
 	'JS_TAB_RENAMED' => 'Μετονομάστηκε',
-	'JS_TAB_REORDERED' => 'Reordered',
+	'JS_TAB_REORDERED' => 'Αναδιατάχτηκε',
 	'JS_RECIPIENT_PREFERENCES_SAVED' => 'Οι προτιμήσεις του παραλήπτη αποθηκεύτηκαν',
 	'JS_TASK_ADDED' => 'Προστέθηκε εργασία',
 	'JS_MARKED_COMPLETED' => 'Επισημάνθηκε ως ολοκληρωμένη',
@@ -1870,9 +1870,9 @@ $jsLanguageStrings = array(
 	'JS_TAG_ADDED' => 'προστέθηκε Ετικέτα',
 	'JS_TAB_DELETED' => 'διεγράφη',
 	'JS_TAB_RENAMED' => 'Μετονομάστηκε',
-	'JS_TAB_REORDERED' =>'Reordered',
+	'JS_TAB_REORDERED' =>'Αναδιατάχτηκε',
 	//Convert Lead
-	'JS_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε είτε την ενότητα Οργανισμοί ή Πελάτες για να μετατρέψετε τους Δυνητικούς.',
+	'JS_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε είτε την ενότητα Εταιρείες ή Πελάτες για να μετατρέψετε τους Δυνητικούς.',
 
 	'JS_CHECK_START_AND_END_DATE'=>'Η ημερομηνία και η ώρα ολοκλήρωσης θα πρέπει να είναι μεγαλύτερες ή ίσες με την Ημερομηνία και ώρα έναρξης',
 	'JS_CHECK_START_AND_END_DATE_SHOULD_BE_GREATER'=> 'Η ημερομηνία και ώρα ολοκλήρωσης θα πρέπει να είναι μεγαλύτερες από την Ημερομηνία και ώρα έναρξης',
