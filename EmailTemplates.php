@@ -9,24 +9,24 @@
  *************************************************************************************/
 $languageStrings = array(
 	'Email Templates' => 'Email Templates',
-	'LBL_ADD_RECORD' => 'Add Email Template',
-	'SINGLE_EmailTemplates' => 'Email Template',
-	'LBL_EMAIL_TEMPLATES'=> 'Email Templates',
-	'LBL_EMAIL_TEMPLATE' => 'Email Template',
+	'LBL_ADD_RECORD' => 'Προσθέστε Πρότυπο Email',
+	'SINGLE_EmailTemplates' => 'Πρότυπο Email',
+	'LBL_EMAIL_TEMPLATES'=> 'Πρότυπα Email',
+	'LBL_EMAIL_TEMPLATE' => 'Πρότυπο Email',
 	
-	'LBL_TEMPLATE_NAME' => 'Template name',
-	'LBL_DESCRIPTION' => 'Description',
-	'LBL_SUBJECT' => 'Subject',
-	'LBL_SELECT_FIELD_TYPE' => 'Select Module & Field',
-	'LBL_MODULE_NAME' => 'Module Name',
+	'LBL_TEMPLATE_NAME' => 'Όνομα Προτύπου',
+	'LBL_DESCRIPTION' => 'Περιγραφή',
+	'LBL_SUBJECT' => 'Θέμα',
+	'LBL_SELECT_FIELD_TYPE' => 'Επιλογή Ενότητας & Πεδίου',
+	'LBL_MODULE_NAME' => 'Όνομα Ενότητας',
 	
-	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Manage templates for E-Mail module',
-	'LBL_NO_PERMISSIONS_TO_DELETE_SYSTEM_TEMPLATE' => 'No Permissions to delete System Template',
-	'LBL_RECORD_ID' => 'Record ID',
+	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Διαχείριση Προτύπων για την Ενότητα Email',
+	'LBL_NO_PERMISSIONS_TO_DELETE_SYSTEM_TEMPLATE' => 'Δεν επιτρέπεται η διαγραφή του προτύπου συστήματος',
+	'LBL_RECORD_ID' => 'ID Εγγραφής',
 	
 );
 
 $jsLanguageStrings = array(
-    'LBL_CUTOMER_LOGIN_DETAILS_TEMPLATE_DELETE_MESSAGE' => 'You will not be able to send the customer portal login details to the contact if you delete "Customer Login Details" template. Do you wish to continue ?',
-	'JS_REQUIRED_FIELD' => '* System Email Template Content is Required',
+    'LBL_CUTOMER_LOGIN_DETAILS_TEMPLATE_DELETE_MESSAGE' => 'Δεν θα μπορείτε να στείλετε τα στοιχεία σύνδεσης της δικτυακής πύλης πελατών στον πελάτη σας, εάν διαγράψετε το πρότυπο "Λεπτομέρειες σύνδεσης πελάτη". Θέλετε να συνεχίσετε;',
+	'JS_REQUIRED_FIELD' => '* Απαιτείται το περιεχόμενο του προτύπου email συστήματος',
 );

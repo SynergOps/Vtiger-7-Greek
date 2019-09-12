@@ -12,9 +12,9 @@ $languageStrings = array(
 
 	//Basic Field Names
 	'Id' => 'Κωδ.',
-	'Cron Job' => 'Εργασία',
+	'Cron Job' => 'Διεργασία',
 	'Frequency' => 'Συχνότητα',
-	'Status' => 'Κατάσταση Αυ. Εργασίας',
+	'Status' => 'Κατάσταση',
 	'Last Start' => 'Τελευταία έναρξη',
 	'Last End' => 'Τελευταία λήξη',
 	'Sequence' => 'Σειρά',
