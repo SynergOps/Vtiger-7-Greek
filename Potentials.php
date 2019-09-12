@@ -27,7 +27,7 @@ $languageStrings = array(
 	'Forecast Amount' => 'Πρόβλεψη Ποσού',
 	'Related To' => 'Όνομα Εταιρείας',
 	'Contact Name' => 'Όνομα Πελάτη',
-	'Type' => 'Type',
+	'Type' => 'Τύπος',
 	
 	//Dashboard widgets
 	'Funnel' => 'Sales Funnel',
