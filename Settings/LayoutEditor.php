@@ -207,7 +207,7 @@ $jsLanguageStrings = array(
     'JS_FIELD_NAME_TEXT' => 'Όνομα πεδίου του %s στην %s εγγραφή',
     'JS_PROP_MANDATORY' => 'υποχρεωτικό',
     'JS_SUMMARY' => 'Περίληψη',
-    'JS_KEY_FIELD' => 'Πεδίο Κλειδιού',
+    'JS_KEY_FIELD' => 'Πεδίο Βασικών Στοιχείων',
     
     'JS_QUICK_CREATE' => 'Γρήγορη δημιουργία',
     'JS_MASS_EDIT' => 'Μαζική Επεξεργασία',
@@ -217,7 +217,7 @@ $jsLanguageStrings = array(
                                                  Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το πεδίο;',
     'JS_FIELD_DELETE_CONFIRMATION' => 'Διαγραφή - Δεν χρειάζομαι τα δεδομένα σε αυτό το πεδίο.',
 	'JS_STATUS_CHANGED_SUCCESSFULLY' => 'Η κατάσταση άλλαξε με επιτυχία',
-    'JS_FIELD_CAN_EITHER_BE_HEADER_OR_SUMMARY_ENABLED' => 'Το πεδίο μπορεί να είναι είτε πεδίο κεφαλίδας είτε πεδίο κλειδιού',
+    'JS_FIELD_CAN_EITHER_BE_HEADER_OR_SUMMARY_ENABLED' => 'Το πεδίο μπορεί να είναι είτε πεδίο κεφαλίδας είτε πεδίο βασικών στοιχείων',
     'JS_DETAIL_HEADER' => 'Κεφαλίδα εγγραφής',
     'JS_MAXIMUM_HEADER_FIELDS_ALLOWED' => 'Επιτρέπονται το μέγιστο %s κεφαλίδες πεδίων',
     'JS_NAME_FIELDS_APPEAR_IN_HEADER_BY_DEFAULT' => 'Τα πεδία ονόματος εμφανίζονται στην Κεφαλίδα από προεπιλογή',
