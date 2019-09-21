@@ -25,5 +25,5 @@ $jsLanguageStrings = Array (
     'JS_MODULE_REMOVED' => 'Η ενότητα καταργήθηκε με επιτυχία',
     'JS_MODULE_ADD_SUCCESS' => 'Η ενότητες προστέθηκαν με επιτυχία',
     'JS_PLEASE_SELECT_A_MODULE' => 'Επιλέξτε μια ενότητα',
-)
-?>
+);
+

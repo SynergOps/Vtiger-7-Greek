@@ -11,5 +11,3 @@ $mod_strings = Array (
 'Mobile' => 'Κινητό',
 
 );
-
-?>

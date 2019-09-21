@@ -28,5 +28,3 @@ $jsLanguageStrings = array(
     'JS_RESTORE_AND_UNTRASH_FILE_IN_DRIVE' => 'Επαναφορά στο Vtiger και το Drive',
 );
 
-
-?>

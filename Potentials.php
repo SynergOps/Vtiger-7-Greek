@@ -10,7 +10,7 @@
 $languageStrings = array(
 	// Basic Strings
 	'Potentials' => 'Ευκαιρίες',
-	'SINGLE_Potentials' => 'Ευκαιρίαs',
+	'SINGLE_Potentials' => 'Ευκαιρία',
 	'LBL_ADD_RECORD' => 'Προσθήκη Ευκαιρίας',
 	'LBL_RECORDS_LIST' => 'Λίστα Ευκαιριών',
 
@@ -30,7 +30,7 @@ $languageStrings = array(
 	'Type' => 'Τύπος',
 	
 	//Dashboard widgets
-	'Funnel' => 'Sales Funnel',
+	'Funnel' => 'Στάδιο Πώλησης',
 	'Potentials by Stage' => 'Ευκαιρίες ανά Στάδιο',
 	'Total Revenue' => 'Έσοδα ανά Πωλητή',
 	'Top Potentials' => 'Κορυφαίες Ευκαιρίες',
