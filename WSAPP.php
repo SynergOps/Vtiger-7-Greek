@@ -8,7 +8,7 @@
  * All Rights Reserved.
  ************************************************************************************/
 $mod_strings = Array (
-'WSAPP' => 'WSAPP (Outlook Integration)',
+'WSAPP' => 'WSAPP',
 
 );
 
