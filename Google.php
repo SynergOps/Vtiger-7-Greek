@@ -29,7 +29,7 @@
         'Event Title'=>'Τίτλος Γεγονότος',
         'Start Date'=>'Ημερομηνία Έναρξης',
         'Until Date'=>'Μέχρι την Ημερομηνία',
-        'Description'=>'Περιγραφή'
+        'Description'=>'Περιγραφή',
         'Office Phone' => 'Τηλέφωνο γραφείου',
         'Work Phone' => 'Τηλέφωνο εργασίας',
         'Home Phone' => 'Τηλέφωνο Οικίας',
@@ -82,5 +82,5 @@
     $jsLanguageStrings = array(
         'LBL_SYNC_BUTTON' => 'Συγχρόνισε Τώρα',
         'LBL_SYNCRONIZING' => 'Συγχρονίζει....',
-        'LBL_NOT_SYNCRONIZE' => 'Δεν έχετε συγχρονίσει ακόμα'
+        'LBL_NOT_SYNCRONIZE' => 'Δεν έχετε συγχρονίσει ακόμα',
     );
