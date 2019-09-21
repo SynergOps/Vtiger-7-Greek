@@ -96,7 +96,7 @@ $languageStrings = Array (
 	'LBL_SAVE_BUTTON_LABEL' => 'Αποθήκευση',
 	'LBL_CANCEL_BUTTON_LABEL' => 'Ακύρωση',
 	'LBL_CREATE_MAILBOX' => 'Δημιουργία γραμματοκιβωτίου',
-	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Πρόσθεσε σχόλιο ...'
+	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Πρόσθεσε σχόλιο ...',
 
 
 	'LBL_MAILBOX_DETAILS' => 'Λεπτομέρειες γραμματοκιβωτίου',

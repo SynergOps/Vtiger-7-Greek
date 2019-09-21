@@ -16,7 +16,7 @@ $languageStrings = array(
 	'Module' => 'Άρθρωμα',
 	'Return Url' => 'Url Επιστροφής',
 	'Post Url' => 'Url Προηγούμενο',
-	'Captcha Enabled' => 'Ενεργό Captcha'
+	'Captcha Enabled' => 'Ενεργό Captcha',
 	'SINGLE_Webforms' => 'Δικτυακή Φόρμα',
 
 	//Actions

@@ -25,6 +25,6 @@ $languageStrings = array(
 	'Related To Comments' => 'Σχετικά Σχόλια',
 	
 	//other
-	'LBL_COMMENTED_AT' => 'Σχολιάστηκε στις'
+	'LBL_COMMENTED_AT' => 'Σχολιάστηκε στις',
 	
 );
