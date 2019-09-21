@@ -9,22 +9,22 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_ModComments' => 'Comment',
-	'LBL_RECORDS_LIST' => 'Comments List',
+	'SINGLE_ModComments' => 'Σχόλιο',
+	'LBL_RECORDS_LIST' => 'Λίστα Σχολίων',
 
 	// Blocks
-	'LBL_MODCOMMENTS_INFORMATION' => 'Comments',
-	'LBL_OTHER_INFORMATION' => 'Other Information',
+	'LBL_MODCOMMENTS_INFORMATION' => 'Πληροφορίες Σχολίων',
+	'LBL_OTHER_INFORMATION' => 'Άλλες Πληροφορίες',
 
-	'LBL_ADDING_COMMENT' => 'Adding Comment',
-	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Enter comments here',
+	'LBL_ADDING_COMMENT' => 'Δημιουργία Σχολίου',
+	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Σχολιάστε εδώ',
 	
 	//Field Labels
-	'Comment' => 'Comment',
-	'Creator' => 'Creator',
-	'Related To Comments' => 'Related To',
+	'Comment' => 'Σχόλιο',
+	'Creator' => 'Συντάκτης',
+	'Related To Comments' => 'Σχετικά Σχόλια',
 	
 	//other
-	'LBL_COMMENTED_AT' => 'Commented at'
+	'LBL_COMMENTED_AT' => 'Σχολιάστηκε στις',
 	
 );

@@ -9,25 +9,26 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_ProjectMilestone' => 'Project Milestone',
-	'LBL_ADD_RECORD' => 'Add Project Milestone',
-	'LBL_RECORDS_LIST' => 'Project Milestones List',
-    'LBL_PROJECTS_LIST' => 'Projects List',
-	'LBL_TASKS_LIST' => 'Tasks List', 
-    'LBL_MILESTONES_LIST' => 'Milestones List',
+	'SINGLE_ProjectMilestone' => 'Ορόσημα Έργου',
+	'LBL_ADD_RECORD' => 'Προσθήκη Ορόσημο Έργου',
+	'LBL_RECORDS_LIST' => 'Λίστα Ορόσημων Έργου',
+    'LBL_PROJECTS_LIST' => 'Λίστα έργων',
+	'LBL_TASKS_LIST' => 'Λίστα εργασιών', 
+    'LBL_MILESTONES_LIST' => 'Λίστα ορόσιμων',
 
 	// Blocks
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Project Milestone Details',
+	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Πληροφορίες Ορόσημων Έργων',
 	
 	//Field Labels
-	'Project Milestone Name' => 'Project Milestone Name',
-	'Milestone Date' => 'Milestone Date',
-	'Project Milestone No' => 'Project Milestone Number',
-        'Type' => 'Type',
-    'Related to' => 'Related To',
+	'Project Milestone Name' => 'Όνομα Ορόσημου Έργου',
+	'Milestone Date' => 'Ημερομηνία Ορόσημου Έργου',
+	'Project Milestone No' => 'Αρ. Ορόσημου Έργου',
+
+        'Type' => 'Τύπος',
+    'Related to' => 'Σχετίζετε με',
 	//picklist values
-	'administrative' => 'Administrative',
-    'operative' => 'Operative',
-    'other' => 'Other',
+	'administrative' => 'Διοικητικό',
+    'operative' => 'Διαδικαστικό',
+    'other' => 'Άλλο',
 	
 );

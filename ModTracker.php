@@ -9,5 +9,5 @@
  *************************************************************************************/
 
 $languageStrings = array(
-	'SINGLE_ModTracker' => 'ModTracker Record',
+	'SINGLE_ModTracker' => 'Εγγραφές ModTracker',
 );

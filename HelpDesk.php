@@ -105,5 +105,5 @@ $languageStrings = array(
 $jsLanguageStrings=array(
 	'LBL_ADD_DOCUMENT'=>'Προσθ. Αρχείου',
 	'LBL_OPEN_TICKETS'=>'Ανοιχ. Αιτήματα',
-	'LBL_CREATE_TICKET'=>'Δημ. Αιτήματος'
+	'LBL_CREATE_TICKET'=>'Δημ. Αιτήματος',
 );

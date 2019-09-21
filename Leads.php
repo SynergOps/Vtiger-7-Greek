@@ -68,5 +68,5 @@ $languageStrings = array(
 $jsLanguageStrings = array(
 	'JS_SELECT_CONTACTS' => 'Επιλογή πελατών για συνέχιση',
 	'JS_SELECT_ORGANIZATION' => 'Επιλογή εταιρειών για συνέχιση',
-	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Η μετατροπή απαιτεί επιλογή Πελάτη ή Εταιρείας'
+	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Η μετατροπή απαιτεί επιλογή Πελάτη ή Εταιρείας',
 );

@@ -27,5 +27,3 @@ $jsLanguageStrings = array(
     'JS_NO_RECORDS' => 'Δεν υπάρχουν εγγραφές',
 
 );
-
-?>

@@ -169,5 +169,5 @@ $jsLanguageStrings = array(
     'VTSMSTask' => 'Εργασία SMS', 
     'VTPushNotificationTask' => 'Ειδοποιήσεις κινητού τηλεφώνου',
     'VTCreateEntityTask' => 'Δημιουργία Εγγραφών',
-    'LBL_EXPRESSION_INVALID' => 'Η έκφραση δεν είναι έγκυρη'
+    'LBL_EXPRESSION_INVALID' => 'Η έκφραση δεν είναι έγκυρη',
 );

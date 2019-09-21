@@ -25,5 +25,5 @@ $languageStrings = Array(
 	'OpenTicketsByPriority' => 'Ανοιχτά αιτήματα κατα Προτεραιότητα',
 	'TicketsClosureTimeByPriority' => 'Χρόνος κλεισήματος αιτημάτων κατα Προτεραιότητα',
 	'_start for widgets' => 'κλειδιά',
-	'Recent' => 'Πρόσφατα'
+	'Recent' => 'Πρόσφατα',
 );
