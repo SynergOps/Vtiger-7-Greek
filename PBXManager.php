@@ -9,32 +9,32 @@
  *************************************************************************************/
 $languageStrings = array(
 	'Asterisk' => 'Asterisk',
-	'Call From'=>'Call From',
-	'Call To'=>'Call To',
-	'LBL_CALL_INFORMATION' => 'Call Details',
+	'Call From'=>'Κλήση Από',
+	'Call To'=>'Κλήση Πρός',
+	'LBL_CALL_INFORMATION' => 'Λεπτομέριες Κλήσης',
 	'PBXManager ID'=>'PBX Manager ID',
-	'PBXManager' => 'PBX Manager',
-	'SINGLE_PBXManager' => 'PBX Manager',
-	'Time Of Call'=>'Time Of Call',
+	'PBXManager' => 'Διαχειριστής PBX',
+	'SINGLE_PBXManager' => 'Διαχειριστής PBX',
+	'Time Of Call'=>'Ώρα Κλήσης',
     //Blocks
-    'LBL_PBXMANAGER_INFORMATION' => 'Call Details',
-    'LBL_CUSTOM_INFORMATION'=>'Custom Information',
+    'LBL_PBXMANAGER_INFORMATION' => 'Λεπτομέριες Κλήσης',
+    'LBL_CUSTOM_INFORMATION'=>'Προσαρμοσμένη Πληροφορία',
     
     // list view settings links
-    'LBL_SERVER_CONFIGURATION' => 'Provider Configuration',
+    'LBL_SERVER_CONFIGURATION' => 'Ρυθμίσεις Παρόχου',
     
     //Detail view header title
-    'LBL_CALL_FROM' => 'Call From',
-    'LBL_CALL_TO' => 'Call To',
+    'LBL_CALL_FROM' => 'Κλήση Από',
+    'LBL_CALL_TO' => 'Κλήση Πρός',
     
     //Incoming call pop-up 
-    'LBL_HIDDEN' => '(HIDDEN)', 
+    'LBL_HIDDEN' => '(ΚΡΥΦΟ)', 
   
     // Fields
-    'Total Duration' => 'Duration (sec)',
-    'Bill Duration'  => 'Bill Duration (sec)',
-    'Recording URL' => 'Recording',
+    'Total Duration' => 'Διάρκεια (δευτ)',
+    'Bill Duration'  => 'Διάρκεια χρέωσης (δευτ)',
+    'Recording URL' => 'Ηχογράφηση',
     
-    'SINGLE_PBXManager' => 'Call Record' ,
+    'SINGLE_PBXManager' => 'Εγγραφή της Κλήσης' ,
 
 );

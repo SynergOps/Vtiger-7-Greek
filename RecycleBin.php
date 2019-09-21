@@ -9,23 +9,23 @@
  ************************************************************************************/
 
 $languageStrings = Array(
-    'Recycle Bin'=> 'Recycle Bin' ,
-    'RecycleBin' => 'Recycle Bin',
-	'LBL_SELECT_MODULE' => 'Select Module',
-	'LBL_EMPTY_RECYCLEBIN' => 'Empty Recycle Bin',
-	'LBL_RESTORE' => 'Restore',
-	'LBL_NO_PERMITTED_MODULES' => 'No permitted modules available',
-	'LBL_RECORDS_LIST' => 'Recycle Bin List',
-	'LBL_NO_RECORDS_FOUND' => 'No records found to Restore in module',
+    'Recycle Bin'=> 'Κάδος Ανακύκλωσης' ,
+    'RecycleBin' => 'Κάδος Ανακύκλωσης',
+	'LBL_SELECT_MODULE' => 'Επιλογή Ενότητας',
+	'LBL_EMPTY_RECYCLEBIN' => 'Άδειασμα Κάδου',
+	'LBL_RESTORE' => 'Επαναφορά',
+	'LBL_NO_PERMITTED_MODULES' => 'Καμία από τις επιτρεπόμενες ενότητες δεν είναι διαθέσιμες',
+	'LBL_RECORDS_LIST' => 'Λίστα Κάδου Ανακύκλωσης',
+	'LBL_NO_RECORDS_FOUND' => 'Δεν βρέθηκαν εγγραφές για επαναφορά στην Ενότητα',
 );
 
 $jsLanguageStrings = array(
-	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Are you sure you want to permanently remove all the deleted records from your database?',
-	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Are you sure you want to restore the records?',
-	'JS_RESTORING_RECORDS' => 'Restoring records',
-    'JS_LBL_RESTORE_RECORD_CONFIRMATION' => 'Are you sure you want to restore the record?',
-    'JS_RESTORING_RECORD' => 'Restoring Record',
-    'JS_RESTORE_AND_UNTRASH_FILE_IN_DRIVE' => 'Restore in Vtiger and Drive',
+	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Είστε βέβαιοι ότι θέλετε να διαγράψετε οριστικά όλες τις διεγραμμένες εγγραφές από τη βάση δεδομένων σας;',
+	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να επαναφέρετε τις εγγραφές;',
+	'JS_RESTORING_RECORDS' => 'Επαναφορά εγγραφών',
+    'JS_LBL_RESTORE_RECORD_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να επαναφέρετε την εγγραφή;',
+    'JS_RESTORING_RECORD' => 'Επαναφορά εγγραφής',
+    'JS_RESTORE_AND_UNTRASH_FILE_IN_DRIVE' => 'Επαναφορά στο Vtiger και το Drive',
 );
 
 
