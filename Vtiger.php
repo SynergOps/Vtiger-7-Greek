@@ -1095,7 +1095,7 @@ $languageStrings = array(
 	'LBL_DISPLAYING_RESULTS' => 'Εμφάνιση αποτελεσμάτων',
 	'LBL_ADD_STAR' => 'Προσθήκη Αστεριού',
 	'LBL_REMOVE_STAR' => 'Κατάργηση Αστεριού',
-	'LBL_UPDATE_LIST' => 'Λίστα ενημερώσεων',
+	'LBL_UPDATE_LIST' => 'Ενημέρωση Προβολής',
 	'LBL_SHARE_THIS_LIST' => 'Μοιραστείτε αυτήν τη λίστα',
 	'LBL_ADD_USERS_ROLES' => 'Προσθέστε χρήστες και ρόλους',
 	'LBL_LISTS' => 'Λίστες',
@@ -1116,7 +1116,7 @@ $languageStrings = array(
 	'LBL_SLA_INFORMATION' => 'Πληροφορίες συμφωνίας σε επίπεδο υπηρεσιών (SLA)',
 
 	//configure columns
-	'LBL_UPDATE_LIST' => 'Λίστα ενημερώσεων',
+	'LBL_UPDATE_LIST' => 'Ενημέρωση Προβολής',
 	'LBL_CONFIG_COLUMNS' => 'Ρυθμίστε τις στήλες',
 	'LBL_SELECTED_FIELDS' => 'Επιλεγμένα πεδία',
 	'LBL_AVAILABLE_FIELDS' => 'Διαθέσιμα πεδία',
