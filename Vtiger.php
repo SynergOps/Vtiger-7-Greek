@@ -135,7 +135,7 @@ $languageStrings = array(
 	'Created Time' => 'Δημιουργήθηκε στις',
 	'Modified Time' => 'Τροποποιήθηκε στις',
 	'Description' => 'Περιγραφή',
-	'Assigned To'=>'Ανατέθηκε σε/στον',
+	'Assigned To'=>'Ανατέθηκε σε',
 
 	//Loading Labels
 	'LBL_LOADING' => 'Φόρτωση',
