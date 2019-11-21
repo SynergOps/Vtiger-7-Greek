@@ -135,7 +135,7 @@ $languageStrings = array(
 	'Created Time' => 'Δημιουργήθηκε στις',
 	'Modified Time' => 'Τροποποιήθηκε στις',
 	'Description' => 'Περιγραφή',
-	'Assigned To'=>'Ανατέθηκε σε/στον',
+	'Assigned To'=>'Ανατέθηκε σε',
 
 	//Loading Labels
 	'LBL_LOADING' => 'Φόρτωση',
@@ -501,10 +501,10 @@ $languageStrings = array(
 	'Total Revenue' => 'Συνολικά Έσοδα',
 	'Top Potentials' => 'Κορυφαίες Ευκαιρίες',
 	'Forecast' => 'Πρόγνωση',
-	'Leads Created' => 'Εγγεγραμμένες Προοπτικές',
-	'Leads by Status' => 'Προοπτικές ανά Κατάσταση',
-	'Leads by Source' => 'Προοπτικές ανά Πηγή ',
-	'Leads by Industry' => 'Προοπτικές ανά Κλάδο',
+	'Leads Created' => 'Εγγεγραμμένοι Δυνητικοί',
+	'Leads by Status' => 'Δυνητικοί ανά Κατάσταση',
+	'Leads by Source' => 'Δυνητικοί ανά Προέλευση ',
+	'Leads by Industry' => 'Δυνητικοί ανά Κλάδο',
 	'Tickets by Status' => 'Αιτήματα ανά Κατάσταση',
 	'Open Tickets' => 'Ανοιχτά Αιτήματα',
 	'Funnel Amount' => 'Συνολικό Ποσό ανά Επίπεδο Πωλήσεων',
@@ -1095,7 +1095,7 @@ $languageStrings = array(
 	'LBL_DISPLAYING_RESULTS' => 'Εμφάνιση αποτελεσμάτων',
 	'LBL_ADD_STAR' => 'Προσθήκη Αστεριού',
 	'LBL_REMOVE_STAR' => 'Κατάργηση Αστεριού',
-	'LBL_UPDATE_LIST' => 'Λίστα ενημερώσεων',
+	'LBL_UPDATE_LIST' => 'Ενημέρωση Προβολής',
 	'LBL_SHARE_THIS_LIST' => 'Μοιραστείτε αυτήν τη λίστα',
 	'LBL_ADD_USERS_ROLES' => 'Προσθέστε χρήστες και ρόλους',
 	'LBL_LISTS' => 'Λίστες',
@@ -1116,7 +1116,7 @@ $languageStrings = array(
 	'LBL_SLA_INFORMATION' => 'Πληροφορίες συμφωνίας σε επίπεδο υπηρεσιών (SLA)',
 
 	//configure columns
-	'LBL_UPDATE_LIST' => 'Λίστα ενημερώσεων',
+	'LBL_UPDATE_LIST' => 'Ενημέρωση Προβολής',
 	'LBL_CONFIG_COLUMNS' => 'Ρυθμίστε τις στήλες',
 	'LBL_SELECTED_FIELDS' => 'Επιλεγμένα πεδία',
 	'LBL_AVAILABLE_FIELDS' => 'Διαθέσιμα πεδία',
