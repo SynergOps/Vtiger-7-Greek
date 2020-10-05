@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUtappia%2FVtiger-7-Greek.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FUtappia%2FVtiger-7-Greek?ref=badge_shield)
+
 Vtiger7 Ελληνική Μετάφραση
 =========================
 
@@ -45,3 +47,7 @@ Vtiger:
 [5]: https://github.com/utappia/vtiger6-greek-translation/wiki/%CE%9C%CE%B5%CF%84%CE%B1%CF%86%CF%81%CE%B1%CE%B6%CF%8C%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CE%B1
 [6]: https://github.com/utappia/vtiger6-greek-translation/releases/tag/6.0.0-2112
 [7]: https://marketplace.vtiger.com/app/listings?id=51
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUtappia%2FVtiger-7-Greek.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FUtappia%2FVtiger-7-Greek?ref=badge_large)
